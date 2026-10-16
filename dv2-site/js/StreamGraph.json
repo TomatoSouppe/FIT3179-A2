@@ -1,0 +1,181 @@
+{
+  "width": "container",
+  "height": 380,
+  "title": {
+    "text": "Where Australia's jobs have been, 1984 to 2026",
+    "subtitle": "Height of each band = number of people working in that industry (thousands)",
+    "anchor": "start",
+    "fontSize": 15
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/employment_by_industry_national.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.industry != 'All industries'"
+        },
+        {
+          "calculate": "utcyear(datum.date) + utcmonth(datum.date)/12",
+          "as": "yr"
+        },
+        {
+          "calculate": "indexof([\"Health Care and Social Assistance\", \"Professional, Scientific and Technical Services\", \"Construction\", \"Education and Training\", \"Retail Trade\", \"Manufacturing\", \"Agriculture, Forestry and Fishing\"], datum.industry) >= 0 ? datum.industry : 'Other industries'",
+          "as": "grp"
+        },
+        {
+          "calculate": "datum.grp == 'Other industries' ? 99 : indexof([\"Health Care and Social Assistance\", \"Professional, Scientific and Technical Services\", \"Construction\", \"Education and Training\", \"Retail Trade\", \"Manufacturing\", \"Agriculture, Forestry and Fishing\"], datum.industry)",
+          "as": "ord"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "stroke": "#fbfaf7",
+        "strokeWidth": 0.4
+      },
+      "encoding": {
+        "x": {
+          "field": "yr",
+          "type": "quantitative",
+          "axis": {
+            "format": "d",
+            "title": null,
+            "values": [
+              1985,
+              1995,
+              2005,
+              2015,
+              2025
+            ]
+          },
+          "scale": {
+            "domain": [
+              1984.8,
+              2026.2
+            ],
+            "nice": false
+          }
+        },
+        "y": {
+          "field": "trend",
+          "type": "quantitative",
+          "stack": "center",
+          "axis": null
+        },
+        "color": {
+          "field": "grp",
+          "type": "nominal",
+          "title": null,
+          "scale": {
+            "domain": [
+              "Health Care and Social Assistance",
+              "Professional, Scientific and Technical Services",
+              "Construction",
+              "Education and Training",
+              "Retail Trade",
+              "Manufacturing",
+              "Agriculture, Forestry and Fishing",
+              "Other industries"
+            ],
+            "range": [
+              "#1f6f8b",
+              "#6a4c93",
+              "#e08a1e",
+              "#3a9d6e",
+              "#c4572b",
+              "#8c6d4f",
+              "#b5a642",
+              "#d9d6cc"
+            ]
+          },
+          "legend": {
+            "orient": "right",
+            "labelLimit": 330,
+            "symbolType": "square"
+          }
+        },
+        "detail": {
+          "field": "industry",
+          "type": "nominal"
+        },
+        "order": {
+          "field": "ord",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "industry",
+            "title": "Industry"
+          },
+          {
+            "field": "yr",
+            "title": "Year",
+            "format": ".0f"
+          },
+          {
+            "field": "trend",
+            "title": "Employed (thousands)",
+            "format": ",.0f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": 2020.4,
+            "t": "COVID-19 lockdowns"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "strokeDash": [
+          4,
+          3
+        ],
+        "color": "#1d2a33"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": 2020.4,
+            "t": "COVID-19"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "dx": -6,
+        "dy": -168,
+        "fontSize": 11,
+        "color": "#1d2a33"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "t"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

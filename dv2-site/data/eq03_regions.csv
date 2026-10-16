@@ -1,0 +1,1592 @@
+date,state,region,area_type,sex,industry,employed,full_time,part_time
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,"Agriculture, Forestry and Fishing",8.0,6.5,1.5
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Mining,2.9,2.9,0.0
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Manufacturing,135.8,125.7,10.1
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",15.3,15.2,0.1
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Construction,142.5,129.7,12.8
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Wholesale Trade,59.0,54.2,4.8
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Retail Trade,104.7,76.0,28.8
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Accommodation and Food Services,64.2,44.0,20.2
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,"Transport, Postal and Warehousing",84.1,70.2,13.9
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Information Media and Telecommunications,42.1,38.5,3.6
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Financial and Insurance Services,73.3,68.6,4.7
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,"Rental, Hiring and Real Estate Services",25.9,22.6,3.3
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,"Professional, Scientific and Technical Services",117.9,100.7,17.2
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Administrative and Support Services,41.6,31.9,9.7
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Public Administration and Safety,69.2,66.3,2.8
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Education and Training,49.5,40.9,8.6
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Health Care and Social Assistance,52.4,44.4,8.0
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Arts and Recreation Services,15.4,10.6,4.8
+2006-02-01,NSW,Greater Sydney,Greater capital city,Males,Other Services,53.8,47.2,6.6
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,"Agriculture, Forestry and Fishing",58.1,50.0,8.1
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Mining,16.7,16.7,0.0
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Manufacturing,81.4,72.3,9.2
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,"Electricity, Gas, Water and Waste Services",10.2,10.0,0.1
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Construction,92.2,79.0,13.2
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Wholesale Trade,20.0,17.3,2.7
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Retail Trade,56.1,45.0,11.1
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Accommodation and Food Services,34.9,26.1,8.8
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,"Transport, Postal and Warehousing",41.3,38.1,3.1
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Information Media and Telecommunications,11.6,10.9,0.7
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Financial and Insurance Services,10.0,9.0,1.0
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,"Rental, Hiring and Real Estate Services",7.4,5.1,2.3
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,"Professional, Scientific and Technical Services",31.8,28.4,3.3
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Administrative and Support Services,14.2,8.3,5.9
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Public Administration and Safety,40.5,36.9,3.6
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Education and Training,26.5,21.0,5.5
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Health Care and Social Assistance,21.7,18.1,3.7
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Arts and Recreation Services,7.8,5.7,2.1
+2006-02-01,NSW,Rest of NSW,Rest of state,Males,Other Services,26.0,22.2,3.8
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Agriculture, Forestry and Fishing",7.9,5.9,2.0
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Mining,4.0,4.0,0.0
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Manufacturing,182.6,169.4,13.2
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",8.9,8.6,0.3
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Construction,142.0,126.3,15.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Wholesale Trade,51.5,46.4,5.1
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Retail Trade,93.8,65.5,28.3
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Accommodation and Food Services,46.1,29.3,16.8
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Transport, Postal and Warehousing",73.7,65.0,8.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Information Media and Telecommunications,34.9,31.0,3.9
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Financial and Insurance Services,42.5,39.7,2.8
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Rental, Hiring and Real Estate Services",19.0,16.0,3.0
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Professional, Scientific and Technical Services",96.7,83.7,13.1
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Administrative and Support Services,40.8,30.8,10.0
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Public Administration and Safety,38.3,35.6,2.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Education and Training,41.2,31.7,9.5
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Health Care and Social Assistance,40.8,34.9,5.9
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Arts and Recreation Services,19.6,11.9,7.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Males,Other Services,45.6,39.8,5.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,"Agriculture, Forestry and Fishing",42.1,34.0,8.1
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Mining,2.8,2.8,0.0
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Manufacturing,57.2,53.4,3.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,"Electricity, Gas, Water and Waste Services",8.1,7.0,1.0
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Construction,46.3,42.4,3.9
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Wholesale Trade,14.4,13.6,0.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Retail Trade,32.2,21.9,10.2
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Accommodation and Food Services,14.3,8.7,5.5
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,"Transport, Postal and Warehousing",16.3,13.6,2.7
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Information Media and Telecommunications,4.4,4.1,0.4
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Financial and Insurance Services,3.5,2.8,0.7
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,"Rental, Hiring and Real Estate Services",2.8,2.4,0.3
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,"Professional, Scientific and Technical Services",16.1,14.0,2.1
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Administrative and Support Services,6.5,5.1,1.4
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Public Administration and Safety,15.3,13.8,1.5
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Education and Training,15.7,13.7,2.0
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Health Care and Social Assistance,13.7,11.5,2.1
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Arts and Recreation Services,5.2,3.3,1.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Males,Other Services,14.3,11.7,2.6
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Agriculture, Forestry and Fishing",8.5,5.7,2.8
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Mining,6.1,6.1,0.0
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Manufacturing,72.1,68.9,3.2
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",8.5,8.4,0.1
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Construction,80.2,75.4,4.9
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Wholesale Trade,26.7,24.8,1.9
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Retail Trade,51.2,36.6,14.5
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Accommodation and Food Services,26.7,14.1,12.6
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Transport, Postal and Warehousing",38.7,35.1,3.6
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Information Media and Telecommunications,9.2,8.3,0.9
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Financial and Insurance Services,14.1,11.9,2.3
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Rental, Hiring and Real Estate Services",14.5,11.4,3.1
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Professional, Scientific and Technical Services",38.9,36.0,2.9
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Administrative and Support Services,17.5,12.6,4.9
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Public Administration and Safety,33.1,30.9,2.2
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Education and Training,24.5,20.0,4.5
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Health Care and Social Assistance,23.0,19.2,3.8
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Arts and Recreation Services,8.6,5.0,3.6
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Males,Other Services,29.6,25.5,4.1
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,"Agriculture, Forestry and Fishing",35.7,31.7,4.1
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Mining,26.3,26.3,0.0
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Manufacturing,61.7,57.5,4.1
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,"Electricity, Gas, Water and Waste Services",10.7,10.6,0.1
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Construction,96.1,88.6,7.5
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Wholesale Trade,21.6,20.5,1.1
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Retail Trade,56.3,40.8,15.5
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Accommodation and Food Services,30.3,21.0,9.3
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,"Transport, Postal and Warehousing",42.1,38.3,3.8
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Information Media and Telecommunications,7.4,6.6,0.8
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Financial and Insurance Services,8.4,8.4,0.0
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,"Rental, Hiring and Real Estate Services",12.7,10.3,2.4
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,"Professional, Scientific and Technical Services",25.2,21.6,3.5
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Administrative and Support Services,11.6,6.3,5.3
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Public Administration and Safety,38.5,34.9,3.6
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Education and Training,22.9,19.7,3.3
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Health Care and Social Assistance,18.4,14.2,4.2
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Arts and Recreation Services,9.4,6.4,3.0
+2006-02-01,Qld,Rest of Qld,Rest of state,Males,Other Services,23.0,20.5,2.5
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,"Agriculture, Forestry and Fishing",5.9,4.3,1.6
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Mining,3.3,3.3,0.0
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Manufacturing,53.5,49.6,3.9
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",3.7,3.7,0.0
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Construction,38.6,34.9,3.7
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Wholesale Trade,13.6,11.8,1.8
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Retail Trade,32.3,21.5,10.8
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Accommodation and Food Services,16.0,9.0,7.1
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,"Transport, Postal and Warehousing",20.9,17.6,3.4
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Information Media and Telecommunications,8.4,7.2,1.2
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Financial and Insurance Services,6.7,6.4,0.3
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,"Rental, Hiring and Real Estate Services",4.9,4.3,0.6
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,"Professional, Scientific and Technical Services",18.3,15.1,3.2
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Administrative and Support Services,10.8,7.2,3.6
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Public Administration and Safety,20.4,18.9,1.5
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Education and Training,14.7,12.5,2.2
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Health Care and Social Assistance,16.9,13.5,3.4
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Arts and Recreation Services,4.3,2.8,1.5
+2006-02-01,SA,Greater Adelaide,Greater capital city,Males,Other Services,16.2,14.1,2.1
+2006-02-01,SA,Rest of SA,Rest of state,Males,"Agriculture, Forestry and Fishing",22.2,19.6,2.6
+2006-02-01,SA,Rest of SA,Rest of state,Males,Mining,4.7,4.7,0.0
+2006-02-01,SA,Rest of SA,Rest of state,Males,Manufacturing,14.5,14.1,0.4
+2006-02-01,SA,Rest of SA,Rest of state,Males,"Electricity, Gas, Water and Waste Services",2.1,2.1,0.0
+2006-02-01,SA,Rest of SA,Rest of state,Males,Construction,10.8,8.8,2.1
+2006-02-01,SA,Rest of SA,Rest of state,Males,Wholesale Trade,2.7,2.5,0.2
+2006-02-01,SA,Rest of SA,Rest of state,Males,Retail Trade,7.1,5.3,1.9
+2006-02-01,SA,Rest of SA,Rest of state,Males,Accommodation and Food Services,4.5,3.5,1.0
+2006-02-01,SA,Rest of SA,Rest of state,Males,"Transport, Postal and Warehousing",5.8,5.2,0.6
+2006-02-01,SA,Rest of SA,Rest of state,Males,Information Media and Telecommunications,0.8,0.6,0.2
+2006-02-01,SA,Rest of SA,Rest of state,Males,Financial and Insurance Services,0.6,0.6,0.0
+2006-02-01,SA,Rest of SA,Rest of state,Males,"Rental, Hiring and Real Estate Services",1.9,1.9,0.0
+2006-02-01,SA,Rest of SA,Rest of state,Males,"Professional, Scientific and Technical Services",1.2,1.0,0.2
+2006-02-01,SA,Rest of SA,Rest of state,Males,Administrative and Support Services,2.6,1.8,0.8
+2006-02-01,SA,Rest of SA,Rest of state,Males,Public Administration and Safety,4.7,4.3,0.3
+2006-02-01,SA,Rest of SA,Rest of state,Males,Education and Training,2.9,2.2,0.7
+2006-02-01,SA,Rest of SA,Rest of state,Males,Health Care and Social Assistance,1.9,1.2,0.7
+2006-02-01,SA,Rest of SA,Rest of state,Males,Arts and Recreation Services,0.9,0.3,0.5
+2006-02-01,SA,Rest of SA,Rest of state,Males,Other Services,4.4,3.6,0.9
+2006-02-01,WA,Greater Perth,Greater capital city,Males,"Agriculture, Forestry and Fishing",7.1,5.9,1.1
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Mining,24.3,23.7,0.6
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Manufacturing,55.6,52.7,2.9
+2006-02-01,WA,Greater Perth,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",5.9,5.6,0.3
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Construction,74.3,69.2,5.1
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Wholesale Trade,18.8,16.9,1.9
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Retail Trade,42.9,30.4,12.6
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Accommodation and Food Services,22.3,12.0,10.3
+2006-02-01,WA,Greater Perth,Greater capital city,Males,"Transport, Postal and Warehousing",26.9,24.7,2.3
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Information Media and Telecommunications,10.2,8.3,1.9
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Financial and Insurance Services,10.8,9.6,1.1
+2006-02-01,WA,Greater Perth,Greater capital city,Males,"Rental, Hiring and Real Estate Services",9.2,6.9,2.3
+2006-02-01,WA,Greater Perth,Greater capital city,Males,"Professional, Scientific and Technical Services",36.4,34.1,2.3
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Administrative and Support Services,14.1,9.7,4.5
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Public Administration and Safety,26.6,24.5,2.2
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Education and Training,18.1,15.1,3.0
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Health Care and Social Assistance,18.5,15.4,3.1
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Arts and Recreation Services,8.0,5.0,3.0
+2006-02-01,WA,Greater Perth,Greater capital city,Males,Other Services,18.1,15.6,2.6
+2006-02-01,WA,Rest of WA,Rest of state,Males,"Agriculture, Forestry and Fishing",32.4,27.7,4.7
+2006-02-01,WA,Rest of WA,Rest of state,Males,Mining,11.7,11.5,0.2
+2006-02-01,WA,Rest of WA,Rest of state,Males,Manufacturing,15.3,14.6,0.7
+2006-02-01,WA,Rest of WA,Rest of state,Males,"Electricity, Gas, Water and Waste Services",2.6,2.6,0.0
+2006-02-01,WA,Rest of WA,Rest of state,Males,Construction,23.6,22.3,1.3
+2006-02-01,WA,Rest of WA,Rest of state,Males,Wholesale Trade,6.3,5.5,0.8
+2006-02-01,WA,Rest of WA,Rest of state,Males,Retail Trade,8.2,6.4,1.9
+2006-02-01,WA,Rest of WA,Rest of state,Males,Accommodation and Food Services,5.5,4.1,1.4
+2006-02-01,WA,Rest of WA,Rest of state,Males,"Transport, Postal and Warehousing",9.7,8.2,1.4
+2006-02-01,WA,Rest of WA,Rest of state,Males,Information Media and Telecommunications,1.5,1.3,0.2
+2006-02-01,WA,Rest of WA,Rest of state,Males,Financial and Insurance Services,2.0,1.8,0.2
+2006-02-01,WA,Rest of WA,Rest of state,Males,"Rental, Hiring and Real Estate Services",2.1,1.2,0.9
+2006-02-01,WA,Rest of WA,Rest of state,Males,"Professional, Scientific and Technical Services",4.5,4.2,0.3
+2006-02-01,WA,Rest of WA,Rest of state,Males,Administrative and Support Services,3.6,2.3,1.2
+2006-02-01,WA,Rest of WA,Rest of state,Males,Public Administration and Safety,9.6,8.9,0.7
+2006-02-01,WA,Rest of WA,Rest of state,Males,Education and Training,2.4,2.2,0.2
+2006-02-01,WA,Rest of WA,Rest of state,Males,Health Care and Social Assistance,4.4,2.8,1.6
+2006-02-01,WA,Rest of WA,Rest of state,Males,Arts and Recreation Services,1.3,1.1,0.2
+2006-02-01,WA,Rest of WA,Rest of state,Males,Other Services,5.3,4.7,0.6
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,"Agriculture, Forestry and Fishing",1.8,1.6,0.3
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Mining,0.1,0.1,0.0
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Manufacturing,5.0,4.5,0.5
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",1.3,1.3,0.0
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Construction,7.1,6.5,0.7
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Wholesale Trade,2.6,2.2,0.3
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Retail Trade,4.5,3.4,1.1
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Accommodation and Food Services,3.3,2.2,1.1
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,"Transport, Postal and Warehousing",2.6,2.2,0.4
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Information Media and Telecommunications,1.0,0.9,0.2
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Financial and Insurance Services,1.5,1.2,0.3
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,"Rental, Hiring and Real Estate Services",0.8,0.6,0.3
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,"Professional, Scientific and Technical Services",3.1,2.5,0.6
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Administrative and Support Services,1.3,1.1,0.2
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Public Administration and Safety,5.1,4.9,0.2
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Education and Training,2.9,2.5,0.4
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Health Care and Social Assistance,2.6,2.0,0.5
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Arts and Recreation Services,1.2,0.9,0.2
+2006-02-01,Tas,Greater Hobart,Greater capital city,Males,Other Services,2.3,1.7,0.6
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,"Agriculture, Forestry and Fishing",11.0,9.6,1.4
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Mining,2.0,2.0,0.0
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Manufacturing,11.3,10.8,0.6
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,"Electricity, Gas, Water and Waste Services",1.1,1.1,0.0
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Construction,7.5,6.7,0.8
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Wholesale Trade,4.0,3.7,0.3
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Retail Trade,7.8,5.7,2.1
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Accommodation and Food Services,3.5,2.1,1.4
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,"Transport, Postal and Warehousing",4.0,3.2,0.8
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Information Media and Telecommunications,1.0,0.6,0.4
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Financial and Insurance Services,0.5,0.4,0.1
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,"Rental, Hiring and Real Estate Services",1.0,0.6,0.4
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,"Professional, Scientific and Technical Services",2.0,1.7,0.3
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Administrative and Support Services,1.8,1.6,0.2
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Public Administration and Safety,2.8,2.7,0.0
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Education and Training,3.0,2.6,0.4
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Health Care and Social Assistance,2.2,1.6,0.7
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Arts and Recreation Services,1.6,1.2,0.5
+2006-02-01,Tas,Rest of Tas.,Rest of state,Males,Other Services,3.7,3.0,0.6
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,"Agriculture, Forestry and Fishing",1.2,1.2,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Mining,1.6,1.6,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Manufacturing,1.5,1.2,0.2
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,"Electricity, Gas, Water and Waste Services",1.2,1.1,0.1
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Construction,9.1,8.5,0.6
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Wholesale Trade,1.5,1.5,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Retail Trade,4.4,3.2,1.2
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Accommodation and Food Services,3.7,2.7,1.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,"Transport, Postal and Warehousing",3.0,2.8,0.2
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Information Media and Telecommunications,1.3,1.2,0.1
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Financial and Insurance Services,0.1,0.1,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,"Rental, Hiring and Real Estate Services",0.7,0.7,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,"Professional, Scientific and Technical Services",2.7,2.2,0.5
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Administrative and Support Services,2.2,1.1,1.2
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Public Administration and Safety,8.0,7.2,0.8
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Education and Training,2.1,1.9,0.2
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Health Care and Social Assistance,3.9,2.9,1.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Arts and Recreation Services,1.0,1.0,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Males,Other Services,2.7,2.3,0.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Agriculture, Forestry and Fishing",0.9,0.9,0.0
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Manufacturing,3.6,3.4,0.2
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Electricity, Gas, Water and Waste Services",1.1,0.8,0.2
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Construction,10.1,9.5,0.6
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Wholesale Trade,2.5,2.4,0.0
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Retail Trade,8.9,5.1,3.7
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Accommodation and Food Services,4.6,2.9,1.7
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Transport, Postal and Warehousing",3.9,3.4,0.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Information Media and Telecommunications,2.9,2.4,0.5
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Financial and Insurance Services,1.7,1.5,0.2
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Rental, Hiring and Real Estate Services",1.0,0.9,0.2
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Professional, Scientific and Technical Services",11.2,10.3,1.0
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Administrative and Support Services,3.0,2.5,0.5
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Public Administration and Safety,25.7,24.3,1.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Education and Training,6.3,5.3,1.0
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Health Care and Social Assistance,3.2,2.5,0.7
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Arts and Recreation Services,1.7,1.3,0.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Other Services,3.8,3.1,0.7
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,"Agriculture, Forestry and Fishing",4.8,2.1,2.7
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Mining,0.5,0.5,0.0
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Manufacturing,60.8,45.7,15.0
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",3.0,2.7,0.3
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Construction,20.2,9.4,10.9
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Wholesale Trade,31.9,22.0,9.9
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Retail Trade,121.8,53.2,68.6
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Accommodation and Food Services,63.6,29.5,34.1
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,"Transport, Postal and Warehousing",29.3,21.1,8.2
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Information Media and Telecommunications,30.5,24.1,6.4
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Financial and Insurance Services,78.6,60.3,18.3
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,"Rental, Hiring and Real Estate Services",23.8,15.6,8.2
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,"Professional, Scientific and Technical Services",83.9,62.0,21.9
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Administrative and Support Services,38.7,22.7,16.0
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Public Administration and Safety,44.8,33.6,11.2
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Education and Training,107.2,63.0,44.2
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Health Care and Social Assistance,160.3,91.6,68.7
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Arts and Recreation Services,16.2,8.1,8.1
+2006-02-01,NSW,Greater Sydney,Greater capital city,Females,Other Services,33.8,19.8,14.0
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,"Agriculture, Forestry and Fishing",29.8,12.5,17.4
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Mining,0.8,0.4,0.3
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Manufacturing,22.6,13.9,8.8
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,"Electricity, Gas, Water and Waste Services",2.1,1.7,0.4
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Construction,12.1,3.3,8.9
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Wholesale Trade,7.4,3.2,4.1
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Retail Trade,72.7,27.2,45.4
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Accommodation and Food Services,54.9,18.6,36.3
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,"Transport, Postal and Warehousing",10.0,5.3,4.6
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Information Media and Telecommunications,6.5,4.5,2.0
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Financial and Insurance Services,13.9,9.2,4.7
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,"Rental, Hiring and Real Estate Services",7.6,4.6,3.0
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,"Professional, Scientific and Technical Services",29.2,14.7,14.5
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Administrative and Support Services,16.0,9.2,6.8
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Public Administration and Safety,27.4,20.4,7.0
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Education and Training,58.9,34.7,24.3
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Health Care and Social Assistance,94.5,42.1,52.5
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Arts and Recreation Services,7.5,3.3,4.2
+2006-02-01,NSW,Rest of NSW,Rest of state,Females,Other Services,17.1,8.0,9.1
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Agriculture, Forestry and Fishing",4.0,1.8,2.3
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Mining,0.9,0.9,0.0
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Manufacturing,70.4,49.6,20.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",6.3,4.5,1.8
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Construction,20.3,6.9,13.4
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Wholesale Trade,33.3,24.9,8.5
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Retail Trade,117.0,46.9,70.0
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Accommodation and Food Services,58.6,22.6,36.0
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Transport, Postal and Warehousing",26.4,18.2,8.2
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Information Media and Telecommunications,18.8,13.7,5.0
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Financial and Insurance Services,42.0,31.3,10.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Rental, Hiring and Real Estate Services",13.9,9.8,4.1
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Professional, Scientific and Technical Services",65.4,42.3,23.1
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Administrative and Support Services,43.2,23.5,19.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Public Administration and Safety,42.8,28.3,14.4
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Education and Training,92.5,57.8,34.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Health Care and Social Assistance,152.3,77.5,74.7
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Arts and Recreation Services,17.2,7.3,9.9
+2006-02-01,Vic,Greater Melbourne,Greater capital city,Females,Other Services,28.9,17.2,11.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,"Agriculture, Forestry and Fishing",16.6,6.7,9.9
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Mining,0.3,0.3,0.0
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Manufacturing,18.9,13.1,5.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,"Electricity, Gas, Water and Waste Services",1.7,1.4,0.3
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Construction,3.3,1.7,1.6
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Wholesale Trade,4.7,3.1,1.6
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Retail Trade,45.5,18.0,27.5
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Accommodation and Food Services,19.1,4.5,14.5
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,"Transport, Postal and Warehousing",5.8,2.9,2.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Information Media and Telecommunications,5.2,3.7,1.5
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Financial and Insurance Services,4.5,3.3,1.2
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,"Rental, Hiring and Real Estate Services",2.2,1.1,1.1
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,"Professional, Scientific and Technical Services",10.8,5.0,5.9
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Administrative and Support Services,7.2,3.4,3.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Public Administration and Safety,11.2,7.5,3.6
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Education and Training,30.5,19.7,10.8
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Health Care and Social Assistance,56.8,28.3,28.5
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Arts and Recreation Services,4.5,0.7,3.7
+2006-02-01,Vic,Rest of Vic.,Rest of state,Females,Other Services,8.1,3.6,4.5
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Agriculture, Forestry and Fishing",5.4,2.8,2.6
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Mining,1.9,1.4,0.5
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Manufacturing,29.4,19.9,9.5
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",2.7,2.2,0.6
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Construction,11.0,3.6,7.4
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Wholesale Trade,13.0,9.0,4.0
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Retail Trade,62.0,22.6,39.4
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Accommodation and Food Services,32.5,15.8,16.7
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Transport, Postal and Warehousing",14.9,9.8,5.1
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Information Media and Telecommunications,6.2,3.7,2.5
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Financial and Insurance Services,19.4,14.6,4.8
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Rental, Hiring and Real Estate Services",13.7,9.1,4.6
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Professional, Scientific and Technical Services",29.8,19.7,10.1
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Administrative and Support Services,20.0,12.3,7.7
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Public Administration and Safety,26.1,21.2,4.8
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Education and Training,50.6,28.7,21.8
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Health Care and Social Assistance,74.2,41.1,33.1
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Arts and Recreation Services,9.8,3.9,5.9
+2006-02-01,Qld,Greater Brisbane,Greater capital city,Females,Other Services,19.3,11.1,8.2
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,"Agriculture, Forestry and Fishing",16.4,8.1,8.3
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Mining,2.0,1.7,0.2
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Manufacturing,17.3,9.3,7.9
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,"Electricity, Gas, Water and Waste Services",1.3,0.7,0.6
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Construction,14.0,4.7,9.3
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Wholesale Trade,7.9,5.7,2.2
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Retail Trade,74.3,34.9,39.5
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Accommodation and Food Services,49.7,23.3,26.4
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,"Transport, Postal and Warehousing",10.0,5.8,4.1
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Information Media and Telecommunications,7.6,4.8,2.9
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Financial and Insurance Services,10.1,6.2,3.9
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,"Rental, Hiring and Real Estate Services",15.0,10.5,4.5
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,"Professional, Scientific and Technical Services",25.0,17.2,7.7
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Administrative and Support Services,14.8,7.4,7.5
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Public Administration and Safety,25.2,19.1,6.1
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Education and Training,52.5,29.5,23.0
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Health Care and Social Assistance,72.5,41.2,31.3
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Arts and Recreation Services,9.7,2.1,7.6
+2006-02-01,Qld,Rest of Qld,Rest of state,Females,Other Services,16.7,9.4,7.3
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,"Agriculture, Forestry and Fishing",3.4,1.4,2.0
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Mining,0.5,0.5,0.0
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Manufacturing,17.9,11.6,6.3
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",1.7,1.4,0.2
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Construction,4.7,1.8,2.8
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Wholesale Trade,5.3,3.3,1.9
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Retail Trade,37.8,14.4,23.3
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Accommodation and Food Services,24.2,6.4,17.8
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,"Transport, Postal and Warehousing",5.4,3.7,1.7
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Information Media and Telecommunications,6.0,3.4,2.7
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Financial and Insurance Services,11.0,7.3,3.7
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,"Rental, Hiring and Real Estate Services",4.9,3.0,1.9
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,"Professional, Scientific and Technical Services",14.0,9.1,5.0
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Administrative and Support Services,13.2,6.4,6.8
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Public Administration and Safety,17.9,13.9,4.1
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Education and Training,27.3,14.4,12.9
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Health Care and Social Assistance,56.5,28.1,28.4
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Arts and Recreation Services,3.7,1.9,1.8
+2006-02-01,SA,Greater Adelaide,Greater capital city,Females,Other Services,10.4,5.0,5.4
+2006-02-01,SA,Rest of SA,Rest of state,Females,"Agriculture, Forestry and Fishing",9.0,2.4,6.6
+2006-02-01,SA,Rest of SA,Rest of state,Females,Mining,0.6,0.6,0.0
+2006-02-01,SA,Rest of SA,Rest of state,Females,Manufacturing,3.6,2.0,1.6
+2006-02-01,SA,Rest of SA,Rest of state,Females,"Electricity, Gas, Water and Waste Services",0.2,0.2,0.0
+2006-02-01,SA,Rest of SA,Rest of state,Females,Construction,1.5,0.4,1.1
+2006-02-01,SA,Rest of SA,Rest of state,Females,Wholesale Trade,1.1,0.8,0.3
+2006-02-01,SA,Rest of SA,Rest of state,Females,Retail Trade,11.4,5.4,6.0
+2006-02-01,SA,Rest of SA,Rest of state,Females,Accommodation and Food Services,8.7,3.3,5.4
+2006-02-01,SA,Rest of SA,Rest of state,Females,"Transport, Postal and Warehousing",2.5,0.7,1.9
+2006-02-01,SA,Rest of SA,Rest of state,Females,Information Media and Telecommunications,0.7,0.2,0.5
+2006-02-01,SA,Rest of SA,Rest of state,Females,Financial and Insurance Services,1.0,0.5,0.5
+2006-02-01,SA,Rest of SA,Rest of state,Females,"Rental, Hiring and Real Estate Services",0.5,0.4,0.1
+2006-02-01,SA,Rest of SA,Rest of state,Females,"Professional, Scientific and Technical Services",1.1,0.4,0.6
+2006-02-01,SA,Rest of SA,Rest of state,Females,Administrative and Support Services,1.9,1.0,0.8
+2006-02-01,SA,Rest of SA,Rest of state,Females,Public Administration and Safety,2.7,1.9,0.7
+2006-02-01,SA,Rest of SA,Rest of state,Females,Education and Training,8.2,4.5,3.7
+2006-02-01,SA,Rest of SA,Rest of state,Females,Health Care and Social Assistance,15.6,8.0,7.6
+2006-02-01,SA,Rest of SA,Rest of state,Females,Arts and Recreation Services,0.5,0.4,0.1
+2006-02-01,SA,Rest of SA,Rest of state,Females,Other Services,1.3,0.3,1.0
+2006-02-01,WA,Greater Perth,Greater capital city,Females,"Agriculture, Forestry and Fishing",3.9,2.2,1.7
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Mining,8.1,6.9,1.2
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Manufacturing,15.5,9.9,5.6
+2006-02-01,WA,Greater Perth,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",2.2,1.5,0.7
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Construction,11.6,4.9,6.7
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Wholesale Trade,9.6,6.4,3.2
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Retail Trade,54.5,21.5,33.0
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Accommodation and Food Services,25.4,9.3,16.1
+2006-02-01,WA,Greater Perth,Greater capital city,Females,"Transport, Postal and Warehousing",8.7,5.8,2.9
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Information Media and Telecommunications,6.0,4.2,1.8
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Financial and Insurance Services,12.0,9.4,2.7
+2006-02-01,WA,Greater Perth,Greater capital city,Females,"Rental, Hiring and Real Estate Services",9.4,5.2,4.2
+2006-02-01,WA,Greater Perth,Greater capital city,Females,"Professional, Scientific and Technical Services",27.6,18.8,8.8
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Administrative and Support Services,15.5,6.9,8.6
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Public Administration and Safety,21.4,15.4,6.0
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Education and Training,34.1,16.8,17.4
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Health Care and Social Assistance,68.2,33.4,34.8
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Arts and Recreation Services,8.4,3.0,5.4
+2006-02-01,WA,Greater Perth,Greater capital city,Females,Other Services,13.7,8.0,5.8
+2006-02-01,WA,Rest of WA,Rest of state,Females,"Agriculture, Forestry and Fishing",14.4,5.4,9.0
+2006-02-01,WA,Rest of WA,Rest of state,Females,Mining,1.8,1.8,0.0
+2006-02-01,WA,Rest of WA,Rest of state,Females,Manufacturing,4.6,2.8,1.8
+2006-02-01,WA,Rest of WA,Rest of state,Females,"Electricity, Gas, Water and Waste Services",0.5,0.2,0.3
+2006-02-01,WA,Rest of WA,Rest of state,Females,Construction,1.8,0.6,1.2
+2006-02-01,WA,Rest of WA,Rest of state,Females,Wholesale Trade,3.2,2.0,1.1
+2006-02-01,WA,Rest of WA,Rest of state,Females,Retail Trade,14.0,5.7,8.3
+2006-02-01,WA,Rest of WA,Rest of state,Females,Accommodation and Food Services,8.3,4.4,3.8
+2006-02-01,WA,Rest of WA,Rest of state,Females,"Transport, Postal and Warehousing",3.5,1.9,1.6
+2006-02-01,WA,Rest of WA,Rest of state,Females,Information Media and Telecommunications,0.4,0.2,0.2
+2006-02-01,WA,Rest of WA,Rest of state,Females,Financial and Insurance Services,1.7,0.9,0.7
+2006-02-01,WA,Rest of WA,Rest of state,Females,"Rental, Hiring and Real Estate Services",1.7,1.1,0.7
+2006-02-01,WA,Rest of WA,Rest of state,Females,"Professional, Scientific and Technical Services",3.7,2.4,1.3
+2006-02-01,WA,Rest of WA,Rest of state,Females,Administrative and Support Services,5.3,3.0,2.3
+2006-02-01,WA,Rest of WA,Rest of state,Females,Public Administration and Safety,5.7,3.6,2.1
+2006-02-01,WA,Rest of WA,Rest of state,Females,Education and Training,11.0,6.1,4.9
+2006-02-01,WA,Rest of WA,Rest of state,Females,Health Care and Social Assistance,15.8,8.1,7.7
+2006-02-01,WA,Rest of WA,Rest of state,Females,Arts and Recreation Services,1.3,0.4,0.9
+2006-02-01,WA,Rest of WA,Rest of state,Females,Other Services,4.2,1.5,2.8
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,"Agriculture, Forestry and Fishing",0.6,0.1,0.5
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Manufacturing,1.5,1.1,0.4
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",0.6,0.6,0.0
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Construction,0.8,0.1,0.7
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Wholesale Trade,0.6,0.4,0.2
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Retail Trade,7.9,2.2,5.7
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Accommodation and Food Services,3.5,0.8,2.7
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,"Transport, Postal and Warehousing",0.9,0.5,0.4
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Information Media and Telecommunications,1.0,0.7,0.3
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Financial and Insurance Services,1.4,0.9,0.5
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,"Rental, Hiring and Real Estate Services",0.8,0.8,0.0
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,"Professional, Scientific and Technical Services",1.8,1.1,0.8
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Administrative and Support Services,1.6,0.9,0.7
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Public Administration and Safety,5.3,3.9,1.4
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Education and Training,3.9,2.6,1.3
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Health Care and Social Assistance,10.4,4.2,6.1
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Arts and Recreation Services,1.5,0.7,0.8
+2006-02-01,Tas,Greater Hobart,Greater capital city,Females,Other Services,1.6,1.0,0.6
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,"Agriculture, Forestry and Fishing",3.8,1.0,2.8
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Mining,0.5,0.3,0.1
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Manufacturing,3.3,2.1,1.2
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,"Electricity, Gas, Water and Waste Services",0.0,0.0,0.0
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Construction,1.2,0.7,0.5
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Wholesale Trade,0.8,0.6,0.2
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Retail Trade,8.6,4.4,4.1
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Accommodation and Food Services,5.4,1.7,3.7
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,"Transport, Postal and Warehousing",1.2,0.5,0.7
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Information Media and Telecommunications,0.8,0.6,0.2
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Financial and Insurance Services,2.1,1.4,0.6
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,"Rental, Hiring and Real Estate Services",1.3,1.1,0.1
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,"Professional, Scientific and Technical Services",1.9,0.7,1.2
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Administrative and Support Services,2.3,0.7,1.6
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Public Administration and Safety,2.1,1.2,0.9
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Education and Training,5.0,3.4,1.7
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Health Care and Social Assistance,12.0,5.8,6.2
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Arts and Recreation Services,0.8,0.3,0.5
+2006-02-01,Tas,Rest of Tas.,Rest of state,Females,Other Services,2.3,0.8,1.4
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,"Agriculture, Forestry and Fishing",0.3,0.1,0.2
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Mining,0.3,0.3,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Manufacturing,0.8,0.7,0.1
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,"Electricity, Gas, Water and Waste Services",0.3,0.3,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Construction,0.7,0.4,0.2
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Wholesale Trade,0.1,0.1,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Retail Trade,7.5,4.0,3.4
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Accommodation and Food Services,4.8,3.6,1.2
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,"Transport, Postal and Warehousing",0.7,0.5,0.1
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Information Media and Telecommunications,0.7,0.4,0.3
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Financial and Insurance Services,0.5,0.4,0.1
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,"Rental, Hiring and Real Estate Services",0.4,0.4,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,"Professional, Scientific and Technical Services",2.2,1.8,0.4
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Administrative and Support Services,2.4,0.9,1.6
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Public Administration and Safety,7.1,6.5,0.6
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Education and Training,5.1,4.1,1.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Health Care and Social Assistance,8.3,6.0,2.4
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Arts and Recreation Services,0.9,0.9,0.0
+2006-02-01,Northern Territory,Northern Territory,Territory,Females,Other Services,1.2,0.8,0.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Agriculture, Forestry and Fishing",0.5,0.3,0.2
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Manufacturing,0.7,0.3,0.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Electricity, Gas, Water and Waste Services",0.7,0.5,0.2
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Construction,1.4,0.9,0.6
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Wholesale Trade,1.2,0.8,0.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Retail Trade,8.8,3.4,5.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Accommodation and Food Services,4.1,1.6,2.5
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Transport, Postal and Warehousing",1.2,0.6,0.6
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Information Media and Telecommunications,1.6,1.4,0.3
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Financial and Insurance Services,2.4,2.0,0.4
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Rental, Hiring and Real Estate Services",1.2,0.9,0.3
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Professional, Scientific and Technical Services",7.4,6.0,1.5
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Administrative and Support Services,3.6,1.9,1.6
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Public Administration and Safety,24.7,21.4,3.3
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Education and Training,10.7,6.9,3.8
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Health Care and Social Assistance,12.8,6.0,6.9
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Arts and Recreation Services,1.9,1.1,0.8
+2006-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Other Services,2.6,1.5,1.1
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,"Agriculture, Forestry and Fishing",11.0,8.5,2.5
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Mining,4.3,4.3,0.0
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Manufacturing,131.6,118.3,13.3
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",20.7,20.3,0.4
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Construction,174.9,158.4,16.6
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Wholesale Trade,62.5,53.4,9.1
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Retail Trade,131.8,89.1,42.7
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Accommodation and Food Services,73.1,37.6,35.5
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,"Transport, Postal and Warehousing",119.1,103.1,16.0
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Information Media and Telecommunications,43.6,38.6,5.0
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Financial and Insurance Services,75.4,70.3,5.1
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,"Rental, Hiring and Real Estate Services",29.6,26.1,3.5
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,"Professional, Scientific and Technical Services",174.1,158.2,15.9
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Administrative and Support Services,59.6,43.0,16.6
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Public Administration and Safety,67.8,64.7,3.1
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Education and Training,53.5,45.3,8.2
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Health Care and Social Assistance,69.2,51.6,17.5
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Arts and Recreation Services,23.7,17.5,6.1
+2016-02-01,NSW,Greater Sydney,Greater capital city,Males,Other Services,46.0,40.6,5.4
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,"Agriculture, Forestry and Fishing",57.8,47.2,10.6
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Mining,30.3,30.3,0.0
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Manufacturing,66.7,64.1,2.6
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,"Electricity, Gas, Water and Waste Services",15.0,14.3,0.6
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Construction,87.5,81.1,6.4
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Wholesale Trade,17.6,17.1,0.5
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Retail Trade,56.2,34.6,21.6
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Accommodation and Food Services,37.3,20.0,17.3
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,"Transport, Postal and Warehousing",45.4,34.8,10.7
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Information Media and Telecommunications,8.3,5.6,2.7
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Financial and Insurance Services,5.9,5.5,0.4
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,"Rental, Hiring and Real Estate Services",8.9,8.4,0.5
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,"Professional, Scientific and Technical Services",34.4,26.3,8.1
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Administrative and Support Services,20.4,13.3,7.1
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Public Administration and Safety,46.2,40.1,6.2
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Education and Training,30.4,23.0,7.4
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Health Care and Social Assistance,38.8,29.4,9.5
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Arts and Recreation Services,16.7,11.5,5.2
+2016-02-01,NSW,Rest of NSW,Rest of state,Males,Other Services,30.0,25.8,4.1
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Agriculture, Forestry and Fishing",11.3,9.1,2.1
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Mining,4.4,4.4,0.0
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Manufacturing,153.6,141.4,12.2
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",21.5,18.6,2.8
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Construction,196.7,174.0,22.6
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Wholesale Trade,54.7,47.6,7.2
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Retail Trade,121.2,79.2,42.0
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Accommodation and Food Services,86.2,46.9,39.3
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Transport, Postal and Warehousing",105.9,87.8,18.1
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Information Media and Telecommunications,32.1,28.1,3.9
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Financial and Insurance Services,54.6,49.3,5.3
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Rental, Hiring and Real Estate Services",21.5,16.6,4.9
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Professional, Scientific and Technical Services",138.2,120.9,17.3
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Administrative and Support Services,50.7,32.8,17.9
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Public Administration and Safety,57.9,53.4,4.5
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Education and Training,53.5,38.6,14.8
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Health Care and Social Assistance,73.9,53.9,20.0
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Arts and Recreation Services,31.5,17.4,14.1
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Males,Other Services,40.0,32.6,7.4
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,"Agriculture, Forestry and Fishing",52.3,40.1,12.2
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Mining,3.4,3.4,0.0
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Manufacturing,39.2,37.1,2.1
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,"Electricity, Gas, Water and Waste Services",7.9,7.9,0.0
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Construction,57.1,49.0,8.0
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Wholesale Trade,14.5,13.6,0.9
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Retail Trade,36.2,23.8,12.3
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Accommodation and Food Services,16.4,5.8,10.6
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,"Transport, Postal and Warehousing",26.8,20.6,6.2
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Information Media and Telecommunications,5.2,4.4,0.8
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Financial and Insurance Services,2.6,2.6,0.0
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,"Rental, Hiring and Real Estate Services",5.1,5.1,0.0
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,"Professional, Scientific and Technical Services",16.3,13.8,2.5
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Administrative and Support Services,10.3,5.3,5.1
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Public Administration and Safety,19.7,17.9,1.8
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Education and Training,13.8,11.2,2.6
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Health Care and Social Assistance,14.1,10.7,3.4
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Arts and Recreation Services,4.5,1.6,2.9
+2016-02-01,Vic,Rest of Vic.,Rest of state,Males,Other Services,16.5,15.6,0.9
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Agriculture, Forestry and Fishing",5.4,3.3,2.2
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Mining,8.3,7.9,0.4
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Manufacturing,69.3,65.5,3.7
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",9.4,9.4,0.0
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Construction,96.2,90.7,5.5
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Wholesale Trade,24.9,23.1,1.8
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Retail Trade,62.1,41.3,20.8
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Accommodation and Food Services,40.9,15.1,25.8
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Transport, Postal and Warehousing",55.0,43.4,11.6
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Information Media and Telecommunications,8.6,8.3,0.3
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Financial and Insurance Services,22.2,20.2,2.0
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Rental, Hiring and Real Estate Services",13.8,13.0,0.8
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Professional, Scientific and Technical Services",71.7,66.1,5.7
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Administrative and Support Services,24.3,16.2,8.2
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Public Administration and Safety,33.8,32.2,1.6
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Education and Training,23.7,18.5,5.3
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Health Care and Social Assistance,27.1,18.6,8.4
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Arts and Recreation Services,11.7,7.9,3.7
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Males,Other Services,26.8,20.9,5.8
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,"Agriculture, Forestry and Fishing",31.2,28.3,2.8
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Mining,39.5,39.5,0.0
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Manufacturing,67.5,61.3,6.2
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,"Electricity, Gas, Water and Waste Services",13.5,13.5,0.0
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Construction,98.0,91.8,6.2
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Wholesale Trade,19.2,18.8,0.4
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Retail Trade,49.8,34.0,15.8
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Accommodation and Food Services,38.4,21.5,16.9
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,"Transport, Postal and Warehousing",51.3,43.5,7.8
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Information Media and Telecommunications,12.4,9.6,2.8
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Financial and Insurance Services,8.1,7.1,1.0
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,"Rental, Hiring and Real Estate Services",10.3,7.6,2.7
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,"Professional, Scientific and Technical Services",37.6,35.4,2.3
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Administrative and Support Services,23.1,17.9,5.2
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Public Administration and Safety,39.1,34.2,4.9
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Education and Training,24.5,16.1,8.4
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Health Care and Social Assistance,33.6,26.2,7.4
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Arts and Recreation Services,12.0,9.4,2.6
+2016-02-01,Qld,Rest of Qld,Rest of state,Males,Other Services,26.5,20.3,6.2
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,"Agriculture, Forestry and Fishing",5.3,4.1,1.3
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Mining,3.0,3.0,0.0
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Manufacturing,40.3,36.9,3.4
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",7.7,7.3,0.4
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Construction,39.1,34.5,4.6
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Wholesale Trade,14.9,12.2,2.7
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Retail Trade,36.3,23.2,13.1
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Accommodation and Food Services,22.8,10.8,11.9
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,"Transport, Postal and Warehousing",22.8,20.3,2.5
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Information Media and Telecommunications,6.2,4.6,1.5
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Financial and Insurance Services,8.3,7.3,1.1
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,"Rental, Hiring and Real Estate Services",5.1,3.9,1.2
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,"Professional, Scientific and Technical Services",29.0,25.0,3.9
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Administrative and Support Services,10.9,5.3,5.7
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Public Administration and Safety,22.4,19.6,2.8
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Education and Training,15.7,12.8,2.9
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Health Care and Social Assistance,23.3,17.7,5.5
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Arts and Recreation Services,7.6,4.2,3.4
+2016-02-01,SA,Greater Adelaide,Greater capital city,Males,Other Services,13.5,11.6,1.8
+2016-02-01,SA,Rest of SA,Rest of state,Males,"Agriculture, Forestry and Fishing",20.0,17.7,2.3
+2016-02-01,SA,Rest of SA,Rest of state,Males,Mining,1.3,1.3,0.0
+2016-02-01,SA,Rest of SA,Rest of state,Males,Manufacturing,15.1,14.4,0.7
+2016-02-01,SA,Rest of SA,Rest of state,Males,"Electricity, Gas, Water and Waste Services",2.0,2.0,0.0
+2016-02-01,SA,Rest of SA,Rest of state,Males,Construction,13.0,12.6,0.4
+2016-02-01,SA,Rest of SA,Rest of state,Males,Wholesale Trade,3.1,2.6,0.6
+2016-02-01,SA,Rest of SA,Rest of state,Males,Retail Trade,7.4,4.9,2.5
+2016-02-01,SA,Rest of SA,Rest of state,Males,Accommodation and Food Services,3.5,2.3,1.2
+2016-02-01,SA,Rest of SA,Rest of state,Males,"Transport, Postal and Warehousing",4.9,4.4,0.5
+2016-02-01,SA,Rest of SA,Rest of state,Males,Information Media and Telecommunications,0.6,0.6,0.0
+2016-02-01,SA,Rest of SA,Rest of state,Males,Financial and Insurance Services,0.3,0.3,0.0
+2016-02-01,SA,Rest of SA,Rest of state,Males,"Rental, Hiring and Real Estate Services",1.3,1.3,0.0
+2016-02-01,SA,Rest of SA,Rest of state,Males,"Professional, Scientific and Technical Services",2.0,1.1,0.8
+2016-02-01,SA,Rest of SA,Rest of state,Males,Administrative and Support Services,2.4,1.1,1.3
+2016-02-01,SA,Rest of SA,Rest of state,Males,Public Administration and Safety,6.1,5.8,0.3
+2016-02-01,SA,Rest of SA,Rest of state,Males,Education and Training,4.2,3.2,1.0
+2016-02-01,SA,Rest of SA,Rest of state,Males,Health Care and Social Assistance,3.5,3.3,0.2
+2016-02-01,SA,Rest of SA,Rest of state,Males,Arts and Recreation Services,0.5,0.3,0.2
+2016-02-01,SA,Rest of SA,Rest of state,Males,Other Services,2.9,2.7,0.1
+2016-02-01,WA,Greater Perth,Greater capital city,Males,"Agriculture, Forestry and Fishing",4.3,3.7,0.6
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Mining,52.2,51.3,0.9
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Manufacturing,42.3,39.4,2.9
+2016-02-01,WA,Greater Perth,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",6.3,6.3,0.0
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Construction,96.6,88.8,7.8
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Wholesale Trade,19.3,17.9,1.5
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Retail Trade,48.7,28.9,19.7
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Accommodation and Food Services,34.5,15.4,19.1
+2016-02-01,WA,Greater Perth,Greater capital city,Males,"Transport, Postal and Warehousing",44.5,37.1,7.4
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Information Media and Telecommunications,8.4,7.2,1.2
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Financial and Insurance Services,8.9,8.6,0.3
+2016-02-01,WA,Greater Perth,Greater capital city,Males,"Rental, Hiring and Real Estate Services",10.7,9.9,0.8
+2016-02-01,WA,Greater Perth,Greater capital city,Males,"Professional, Scientific and Technical Services",55.2,48.3,6.9
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Administrative and Support Services,16.3,12.2,4.1
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Public Administration and Safety,29.9,26.1,3.8
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Education and Training,24.5,16.6,7.9
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Health Care and Social Assistance,29.1,22.9,6.2
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Arts and Recreation Services,13.9,10.3,3.6
+2016-02-01,WA,Greater Perth,Greater capital city,Males,Other Services,26.4,22.2,4.3
+2016-02-01,WA,Rest of WA,Rest of state,Males,"Agriculture, Forestry and Fishing",16.7,13.5,3.3
+2016-02-01,WA,Rest of WA,Rest of state,Males,Mining,30.3,29.8,0.5
+2016-02-01,WA,Rest of WA,Rest of state,Males,Manufacturing,7.9,7.3,0.6
+2016-02-01,WA,Rest of WA,Rest of state,Males,"Electricity, Gas, Water and Waste Services",3.3,3.3,0.0
+2016-02-01,WA,Rest of WA,Rest of state,Males,Construction,21.4,20.5,0.9
+2016-02-01,WA,Rest of WA,Rest of state,Males,Wholesale Trade,3.4,3.4,0.0
+2016-02-01,WA,Rest of WA,Rest of state,Males,Retail Trade,12.2,9.4,2.8
+2016-02-01,WA,Rest of WA,Rest of state,Males,Accommodation and Food Services,5.6,3.2,2.4
+2016-02-01,WA,Rest of WA,Rest of state,Males,"Transport, Postal and Warehousing",13.0,9.4,3.6
+2016-02-01,WA,Rest of WA,Rest of state,Males,Information Media and Telecommunications,1.1,1.1,0.0
+2016-02-01,WA,Rest of WA,Rest of state,Males,Financial and Insurance Services,1.0,0.6,0.4
+2016-02-01,WA,Rest of WA,Rest of state,Males,"Rental, Hiring and Real Estate Services",2.1,1.4,0.7
+2016-02-01,WA,Rest of WA,Rest of state,Males,"Professional, Scientific and Technical Services",4.8,4.2,0.6
+2016-02-01,WA,Rest of WA,Rest of state,Males,Administrative and Support Services,3.4,2.2,1.2
+2016-02-01,WA,Rest of WA,Rest of state,Males,Public Administration and Safety,6.4,5.9,0.5
+2016-02-01,WA,Rest of WA,Rest of state,Males,Education and Training,4.0,4.0,0.0
+2016-02-01,WA,Rest of WA,Rest of state,Males,Health Care and Social Assistance,2.4,1.6,0.8
+2016-02-01,WA,Rest of WA,Rest of state,Males,Arts and Recreation Services,0.8,0.5,0.3
+2016-02-01,WA,Rest of WA,Rest of state,Males,Other Services,10.1,7.5,2.6
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,"Agriculture, Forestry and Fishing",2.3,2.0,0.3
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Mining,0.4,0.4,0.0
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Manufacturing,4.4,3.8,0.7
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",1.2,1.2,0.0
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Construction,7.4,7.0,0.4
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Wholesale Trade,1.2,1.0,0.3
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Retail Trade,5.5,3.4,2.1
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Accommodation and Food Services,3.2,1.2,1.9
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,"Transport, Postal and Warehousing",4.0,3.2,0.8
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Information Media and Telecommunications,1.6,1.2,0.4
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Financial and Insurance Services,1.5,1.3,0.2
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,"Rental, Hiring and Real Estate Services",0.9,0.5,0.4
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,"Professional, Scientific and Technical Services",4.0,3.4,0.6
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Administrative and Support Services,0.6,0.6,0.0
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Public Administration and Safety,7.9,6.7,1.2
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Education and Training,3.1,2.4,0.7
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Health Care and Social Assistance,3.5,3.0,0.5
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Arts and Recreation Services,1.3,0.9,0.4
+2016-02-01,Tas,Greater Hobart,Greater capital city,Males,Other Services,2.0,1.7,0.3
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,"Agriculture, Forestry and Fishing",7.4,6.3,1.0
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Mining,2.4,2.4,0.0
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Manufacturing,9.1,8.6,0.5
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,"Electricity, Gas, Water and Waste Services",1.1,1.1,0.0
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Construction,10.8,9.9,0.9
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Wholesale Trade,2.9,2.7,0.3
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Retail Trade,6.2,4.4,1.8
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Accommodation and Food Services,5.0,2.5,2.5
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,"Transport, Postal and Warehousing",5.2,4.4,0.8
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Information Media and Telecommunications,0.2,0.1,0.1
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Financial and Insurance Services,1.2,1.2,0.0
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,"Rental, Hiring and Real Estate Services",0.5,0.2,0.3
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,"Professional, Scientific and Technical Services",3.1,2.8,0.3
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Administrative and Support Services,1.4,1.1,0.4
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Public Administration and Safety,3.4,2.9,0.5
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Education and Training,3.3,2.6,0.7
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Health Care and Social Assistance,3.7,2.7,1.0
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Arts and Recreation Services,1.5,1.1,0.4
+2016-02-01,Tas,Rest of Tas.,Rest of state,Males,Other Services,2.2,1.8,0.4
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,"Agriculture, Forestry and Fishing",0.5,0.4,0.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Mining,4.8,4.8,0.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Manufacturing,2.5,2.4,0.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,"Electricity, Gas, Water and Waste Services",2.0,2.0,0.0
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Construction,13.3,12.4,0.9
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Wholesale Trade,1.8,1.6,0.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Retail Trade,4.5,3.8,0.8
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Accommodation and Food Services,3.6,2.6,0.9
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,"Transport, Postal and Warehousing",4.8,4.3,0.4
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Information Media and Telecommunications,0.5,0.5,0.0
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Financial and Insurance Services,0.6,0.6,0.0
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,"Rental, Hiring and Real Estate Services",0.9,0.7,0.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,"Professional, Scientific and Technical Services",5.0,4.7,0.3
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Administrative and Support Services,2.2,1.8,0.3
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Public Administration and Safety,10.6,9.4,1.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Education and Training,3.5,2.8,0.7
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Health Care and Social Assistance,3.2,2.6,0.6
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Arts and Recreation Services,1.8,1.2,0.5
+2016-02-01,Northern Territory,Northern Territory,Territory,Males,Other Services,2.9,2.8,0.2
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Agriculture, Forestry and Fishing",0.8,0.3,0.5
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Manufacturing,3.2,3.2,0.0
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Electricity, Gas, Water and Waste Services",1.5,1.1,0.4
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Construction,13.4,12.3,1.2
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Wholesale Trade,1.4,1.4,0.0
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Retail Trade,7.7,4.7,2.9
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Accommodation and Food Services,8.1,4.2,3.9
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Transport, Postal and Warehousing",4.3,3.8,0.5
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Information Media and Telecommunications,1.7,1.7,0.0
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Financial and Insurance Services,2.0,1.8,0.2
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Rental, Hiring and Real Estate Services",2.6,2.3,0.3
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Professional, Scientific and Technical Services",13.2,12.2,0.9
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Administrative and Support Services,3.1,2.1,1.0
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Public Administration and Safety,28.4,27.0,1.4
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Education and Training,5.0,3.5,1.5
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Health Care and Social Assistance,5.3,3.8,1.5
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Arts and Recreation Services,1.0,0.7,0.2
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Other Services,3.4,2.7,0.7
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,"Agriculture, Forestry and Fishing",5.9,3.3,2.6
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Mining,0.5,0.5,0.0
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Manufacturing,63.9,48.4,15.6
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",7.8,4.9,2.9
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Construction,21.5,8.8,12.7
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Wholesale Trade,29.8,22.5,7.3
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Retail Trade,141.2,53.6,87.5
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Accommodation and Food Services,82.8,29.8,53.0
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,"Transport, Postal and Warehousing",29.7,18.6,11.1
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Information Media and Telecommunications,24.0,18.8,5.3
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Financial and Insurance Services,80.1,66.0,14.1
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,"Rental, Hiring and Real Estate Services",24.3,16.7,7.6
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,"Professional, Scientific and Technical Services",133.4,94.3,39.1
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Administrative and Support Services,58.5,34.0,24.5
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Public Administration and Safety,58.6,46.4,12.2
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Education and Training,125.9,75.4,50.4
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Health Care and Social Assistance,232.1,142.7,89.4
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Arts and Recreation Services,19.9,10.4,9.5
+2016-02-01,NSW,Greater Sydney,Greater capital city,Females,Other Services,41.9,18.6,23.2
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,"Agriculture, Forestry and Fishing",24.9,11.0,13.9
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Mining,2.6,2.6,0.0
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Manufacturing,18.2,10.0,8.3
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,"Electricity, Gas, Water and Waste Services",1.9,1.3,0.5
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Construction,15.4,6.3,9.1
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Wholesale Trade,8.0,3.6,4.5
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Retail Trade,76.5,26.3,50.2
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Accommodation and Food Services,71.0,19.1,51.9
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,"Transport, Postal and Warehousing",8.8,4.8,4.0
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Information Media and Telecommunications,4.9,2.7,2.2
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Financial and Insurance Services,17.3,9.5,7.8
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,"Rental, Hiring and Real Estate Services",11.1,5.0,6.1
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,"Professional, Scientific and Technical Services",29.4,14.3,15.1
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Administrative and Support Services,17.2,6.7,10.5
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Public Administration and Safety,36.0,24.2,11.8
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Education and Training,71.2,41.0,30.2
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Health Care and Social Assistance,148.8,80.0,68.9
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Arts and Recreation Services,12.1,4.4,7.7
+2016-02-01,NSW,Rest of NSW,Rest of state,Females,Other Services,19.0,10.1,8.9
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Agriculture, Forestry and Fishing",5.3,1.6,3.7
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Mining,1.6,1.6,0.0
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Manufacturing,66.0,40.5,25.5
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",7.3,5.6,1.7
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Construction,28.8,12.7,16.2
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Wholesale Trade,27.2,19.4,7.8
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Retail Trade,139.7,58.1,81.6
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Accommodation and Food Services,72.1,26.4,45.7
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Transport, Postal and Warehousing",32.8,23.4,9.4
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Information Media and Telecommunications,18.2,11.8,6.4
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Financial and Insurance Services,49.8,39.0,10.8
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Rental, Hiring and Real Estate Services",17.0,10.6,6.5
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Professional, Scientific and Technical Services",93.2,60.6,32.7
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Administrative and Support Services,46.4,21.1,25.2
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Public Administration and Safety,62.3,39.1,23.3
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Education and Training,127.4,70.4,57.0
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Health Care and Social Assistance,223.1,114.7,108.4
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Arts and Recreation Services,30.0,12.8,17.2
+2016-02-01,Vic,Greater Melbourne,Greater capital city,Females,Other Services,43.3,21.2,22.1
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,"Agriculture, Forestry and Fishing",23.9,10.0,13.9
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Mining,0.8,0.8,0.0
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Manufacturing,14.6,10.3,4.3
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,"Electricity, Gas, Water and Waste Services",1.6,1.6,0.0
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Construction,3.7,2.2,1.5
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Wholesale Trade,3.3,2.4,0.9
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Retail Trade,48.6,19.7,28.8
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Accommodation and Food Services,30.3,6.0,24.3
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,"Transport, Postal and Warehousing",4.4,2.1,2.3
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Information Media and Telecommunications,3.0,1.4,1.7
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Financial and Insurance Services,8.1,5.6,2.5
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,"Rental, Hiring and Real Estate Services",4.9,3.5,1.5
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,"Professional, Scientific and Technical Services",15.5,10.2,5.4
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Administrative and Support Services,10.4,6.3,4.1
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Public Administration and Safety,17.4,9.7,7.8
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Education and Training,35.6,17.5,18.1
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Health Care and Social Assistance,75.8,29.3,46.5
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Arts and Recreation Services,4.2,1.0,3.2
+2016-02-01,Vic,Rest of Vic.,Rest of state,Females,Other Services,9.9,3.2,6.8
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Agriculture, Forestry and Fishing",4.0,2.7,1.2
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Mining,2.9,2.9,0.0
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Manufacturing,21.7,15.8,5.9
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",4.0,3.6,0.4
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Construction,9.8,5.0,4.8
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Wholesale Trade,11.0,8.0,3.0
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Retail Trade,71.0,29.9,41.0
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Accommodation and Food Services,40.2,11.7,28.6
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Transport, Postal and Warehousing",22.8,15.9,7.0
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Information Media and Telecommunications,8.0,5.7,2.3
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Financial and Insurance Services,26.3,19.7,6.6
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Rental, Hiring and Real Estate Services",13.4,10.5,2.9
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Professional, Scientific and Technical Services",50.3,31.9,18.4
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Administrative and Support Services,23.2,12.0,11.2
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Public Administration and Safety,42.1,31.6,10.5
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Education and Training,64.2,36.9,27.3
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Health Care and Social Assistance,121.3,71.8,49.5
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Arts and Recreation Services,9.9,5.0,4.9
+2016-02-01,Qld,Greater Brisbane,Greater capital city,Females,Other Services,23.0,13.3,9.7
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,"Agriculture, Forestry and Fishing",16.8,9.5,7.3
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Mining,5.8,4.9,0.9
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Manufacturing,17.6,13.4,4.1
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,"Electricity, Gas, Water and Waste Services",4.2,3.4,0.8
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Construction,11.4,3.9,7.5
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Wholesale Trade,7.3,4.0,3.4
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Retail Trade,72.0,23.3,48.7
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Accommodation and Food Services,52.7,15.7,37.0
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,"Transport, Postal and Warehousing",14.4,9.7,4.6
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Information Media and Telecommunications,7.4,5.6,1.8
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Financial and Insurance Services,17.7,11.9,5.7
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,"Rental, Hiring and Real Estate Services",11.3,7.2,4.1
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,"Professional, Scientific and Technical Services",32.3,16.9,15.4
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Administrative and Support Services,22.0,11.0,11.0
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Public Administration and Safety,30.0,19.0,11.0
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Education and Training,78.7,43.1,35.6
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Health Care and Social Assistance,115.7,70.6,45.2
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Arts and Recreation Services,13.5,5.7,7.8
+2016-02-01,Qld,Rest of Qld,Rest of state,Females,Other Services,22.4,10.9,11.5
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,"Agriculture, Forestry and Fishing",4.1,1.6,2.5
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Mining,1.0,1.0,0.0
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Manufacturing,11.6,7.9,3.7
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",1.6,1.0,0.6
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Construction,4.9,2.2,2.7
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Wholesale Trade,3.8,1.4,2.4
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Retail Trade,36.2,14.0,22.2
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Accommodation and Food Services,23.8,6.6,17.2
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,"Transport, Postal and Warehousing",4.5,2.0,2.5
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Information Media and Telecommunications,2.0,1.2,0.8
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Financial and Insurance Services,13.2,7.2,6.0
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,"Rental, Hiring and Real Estate Services",4.4,2.1,2.3
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,"Professional, Scientific and Technical Services",23.0,14.4,8.6
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Administrative and Support Services,11.7,5.0,6.7
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Public Administration and Safety,21.3,13.5,7.8
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Education and Training,33.7,19.1,14.6
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Health Care and Social Assistance,79.2,40.4,38.8
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Arts and Recreation Services,4.8,1.6,3.3
+2016-02-01,SA,Greater Adelaide,Greater capital city,Females,Other Services,13.7,6.1,7.7
+2016-02-01,SA,Rest of SA,Rest of state,Females,"Agriculture, Forestry and Fishing",5.3,3.0,2.3
+2016-02-01,SA,Rest of SA,Rest of state,Females,Mining,0.0,0.0,0.0
+2016-02-01,SA,Rest of SA,Rest of state,Females,Manufacturing,7.2,3.9,3.3
+2016-02-01,SA,Rest of SA,Rest of state,Females,"Electricity, Gas, Water and Waste Services",0.3,0.3,0.0
+2016-02-01,SA,Rest of SA,Rest of state,Females,Construction,1.3,0.3,1.0
+2016-02-01,SA,Rest of SA,Rest of state,Females,Wholesale Trade,1.3,0.8,0.5
+2016-02-01,SA,Rest of SA,Rest of state,Females,Retail Trade,13.5,6.0,7.5
+2016-02-01,SA,Rest of SA,Rest of state,Females,Accommodation and Food Services,8.2,2.0,6.1
+2016-02-01,SA,Rest of SA,Rest of state,Females,"Transport, Postal and Warehousing",1.8,1.0,0.8
+2016-02-01,SA,Rest of SA,Rest of state,Females,Information Media and Telecommunications,1.3,1.0,0.3
+2016-02-01,SA,Rest of SA,Rest of state,Females,Financial and Insurance Services,0.2,0.0,0.2
+2016-02-01,SA,Rest of SA,Rest of state,Females,"Rental, Hiring and Real Estate Services",1.4,0.2,1.2
+2016-02-01,SA,Rest of SA,Rest of state,Females,"Professional, Scientific and Technical Services",2.9,1.0,1.8
+2016-02-01,SA,Rest of SA,Rest of state,Females,Administrative and Support Services,3.4,1.2,2.2
+2016-02-01,SA,Rest of SA,Rest of state,Females,Public Administration and Safety,5.3,4.1,1.2
+2016-02-01,SA,Rest of SA,Rest of state,Females,Education and Training,8.2,5.6,2.5
+2016-02-01,SA,Rest of SA,Rest of state,Females,Health Care and Social Assistance,17.1,7.1,10.0
+2016-02-01,SA,Rest of SA,Rest of state,Females,Arts and Recreation Services,0.6,0.0,0.6
+2016-02-01,SA,Rest of SA,Rest of state,Females,Other Services,3.8,1.2,2.6
+2016-02-01,WA,Greater Perth,Greater capital city,Females,"Agriculture, Forestry and Fishing",3.5,2.1,1.4
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Mining,9.8,9.0,0.8
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Manufacturing,13.3,6.2,7.2
+2016-02-01,WA,Greater Perth,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",1.9,0.6,1.3
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Construction,17.6,9.3,8.3
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Wholesale Trade,9.2,6.2,3.0
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Retail Trade,63.0,22.3,40.7
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Accommodation and Food Services,43.6,12.6,30.9
+2016-02-01,WA,Greater Perth,Greater capital city,Females,"Transport, Postal and Warehousing",14.4,9.5,4.9
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Information Media and Telecommunications,5.2,3.2,2.0
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Financial and Insurance Services,13.6,8.9,4.7
+2016-02-01,WA,Greater Perth,Greater capital city,Females,"Rental, Hiring and Real Estate Services",8.3,2.9,5.4
+2016-02-01,WA,Greater Perth,Greater capital city,Females,"Professional, Scientific and Technical Services",35.3,22.0,13.4
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Administrative and Support Services,17.4,7.5,9.9
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Public Administration and Safety,31.6,20.5,11.0
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Education and Training,56.7,30.6,26.2
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Health Care and Social Assistance,101.3,53.5,47.8
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Arts and Recreation Services,11.6,4.3,7.2
+2016-02-01,WA,Greater Perth,Greater capital city,Females,Other Services,20.6,12.7,7.9
+2016-02-01,WA,Rest of WA,Rest of state,Females,"Agriculture, Forestry and Fishing",5.0,2.2,2.8
+2016-02-01,WA,Rest of WA,Rest of state,Females,Mining,4.2,4.2,0.0
+2016-02-01,WA,Rest of WA,Rest of state,Females,Manufacturing,5.7,3.1,2.6
+2016-02-01,WA,Rest of WA,Rest of state,Females,"Electricity, Gas, Water and Waste Services",0.6,0.6,0.0
+2016-02-01,WA,Rest of WA,Rest of state,Females,Construction,3.7,1.8,1.9
+2016-02-01,WA,Rest of WA,Rest of state,Females,Wholesale Trade,1.6,1.1,0.5
+2016-02-01,WA,Rest of WA,Rest of state,Females,Retail Trade,19.1,6.0,13.0
+2016-02-01,WA,Rest of WA,Rest of state,Females,Accommodation and Food Services,6.7,2.5,4.1
+2016-02-01,WA,Rest of WA,Rest of state,Females,"Transport, Postal and Warehousing",3.4,2.3,1.2
+2016-02-01,WA,Rest of WA,Rest of state,Females,Information Media and Telecommunications,0.8,0.4,0.4
+2016-02-01,WA,Rest of WA,Rest of state,Females,Financial and Insurance Services,2.5,0.5,2.0
+2016-02-01,WA,Rest of WA,Rest of state,Females,"Rental, Hiring and Real Estate Services",2.5,2.5,0.0
+2016-02-01,WA,Rest of WA,Rest of state,Females,"Professional, Scientific and Technical Services",6.9,3.5,3.4
+2016-02-01,WA,Rest of WA,Rest of state,Females,Administrative and Support Services,3.6,1.5,2.1
+2016-02-01,WA,Rest of WA,Rest of state,Females,Public Administration and Safety,11.1,8.0,3.1
+2016-02-01,WA,Rest of WA,Rest of state,Females,Education and Training,9.3,6.2,3.1
+2016-02-01,WA,Rest of WA,Rest of state,Females,Health Care and Social Assistance,20.9,9.7,11.2
+2016-02-01,WA,Rest of WA,Rest of state,Females,Arts and Recreation Services,0.9,0.5,0.4
+2016-02-01,WA,Rest of WA,Rest of state,Females,Other Services,3.6,2.3,1.4
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,"Agriculture, Forestry and Fishing",0.4,0.1,0.2
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Mining,0.1,0.1,0.0
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Manufacturing,1.6,1.3,0.3
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",0.5,0.3,0.1
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Construction,0.6,0.2,0.3
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Wholesale Trade,0.3,0.2,0.1
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Retail Trade,5.1,1.7,3.4
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Accommodation and Food Services,5.2,2.0,3.2
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,"Transport, Postal and Warehousing",0.8,0.4,0.3
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Information Media and Telecommunications,0.8,0.7,0.1
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Financial and Insurance Services,1.2,0.7,0.5
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,"Rental, Hiring and Real Estate Services",1.0,0.6,0.5
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,"Professional, Scientific and Technical Services",2.1,1.3,0.8
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Administrative and Support Services,1.3,1.0,0.3
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Public Administration and Safety,6.2,4.0,2.2
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Education and Training,5.2,3.4,1.8
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Health Care and Social Assistance,13.4,5.4,8.0
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Arts and Recreation Services,0.9,0.8,0.1
+2016-02-01,Tas,Greater Hobart,Greater capital city,Females,Other Services,2.4,1.3,1.2
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,"Agriculture, Forestry and Fishing",2.3,1.0,1.4
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Mining,0.3,0.3,0.0
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Manufacturing,2.3,1.2,1.1
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,"Electricity, Gas, Water and Waste Services",0.4,0.3,0.1
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Construction,1.3,0.6,0.7
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Wholesale Trade,0.6,0.3,0.3
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Retail Trade,8.4,3.4,5.0
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Accommodation and Food Services,8.9,2.2,6.6
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,"Transport, Postal and Warehousing",0.8,0.5,0.3
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Information Media and Telecommunications,0.4,0.4,0.0
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Financial and Insurance Services,1.9,1.3,0.6
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,"Rental, Hiring and Real Estate Services",1.2,0.9,0.2
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,"Professional, Scientific and Technical Services",3.1,1.9,1.2
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Administrative and Support Services,1.4,0.8,0.7
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Public Administration and Safety,3.8,2.3,1.5
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Education and Training,8.0,4.3,3.7
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Health Care and Social Assistance,13.3,6.1,7.2
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Arts and Recreation Services,0.7,0.1,0.6
+2016-02-01,Tas,Rest of Tas.,Rest of state,Females,Other Services,3.0,1.4,1.6
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,"Agriculture, Forestry and Fishing",0.2,0.1,0.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Mining,0.7,0.7,0.0
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Manufacturing,0.9,0.5,0.3
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,"Electricity, Gas, Water and Waste Services",0.7,0.7,0.0
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Construction,2.5,1.7,0.7
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Wholesale Trade,0.2,0.1,0.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Retail Trade,4.9,2.8,2.1
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Accommodation and Food Services,5.1,2.2,2.9
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,"Transport, Postal and Warehousing",1.6,0.9,0.7
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Information Media and Telecommunications,0.5,0.2,0.2
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Financial and Insurance Services,1.6,1.3,0.4
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,"Rental, Hiring and Real Estate Services",1.4,1.1,0.3
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,"Professional, Scientific and Technical Services",2.3,1.9,0.4
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Administrative and Support Services,1.9,1.1,0.8
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Public Administration and Safety,13.7,11.8,1.8
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Education and Training,7.4,5.9,1.4
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Health Care and Social Assistance,11.4,9.0,2.4
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Arts and Recreation Services,1.7,1.3,0.4
+2016-02-01,Northern Territory,Northern Territory,Territory,Females,Other Services,3.3,2.2,1.1
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Agriculture, Forestry and Fishing",0.2,0.0,0.2
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Manufacturing,1.3,0.5,0.8
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Electricity, Gas, Water and Waste Services",0.2,0.2,0.0
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Construction,0.9,0.7,0.2
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Wholesale Trade,0.9,0.6,0.3
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Retail Trade,8.6,3.1,5.5
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Accommodation and Food Services,6.3,2.4,3.9
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Transport, Postal and Warehousing",1.0,0.6,0.4
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Information Media and Telecommunications,2.5,2.0,0.5
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Financial and Insurance Services,3.8,2.8,1.0
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Rental, Hiring and Real Estate Services",1.0,0.9,0.2
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Professional, Scientific and Technical Services",9.3,6.1,3.2
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Administrative and Support Services,1.8,0.9,1.0
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Public Administration and Safety,31.7,27.1,4.6
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Education and Training,12.4,7.7,4.7
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Health Care and Social Assistance,19.1,11.5,7.5
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Arts and Recreation Services,2.7,0.9,1.7
+2016-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Other Services,3.1,1.2,2.0
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,"Agriculture, Forestry and Fishing",4.7,4.2,0.6
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Mining,4.6,4.0,0.6
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Manufacturing,113.4,104.7,8.7
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",22.0,21.3,0.7
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Construction,239.9,208.4,31.5
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Wholesale Trade,41.0,36.6,4.4
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Retail Trade,131.9,81.0,50.9
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Accommodation and Food Services,96.6,50.3,46.3
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,"Transport, Postal and Warehousing",152.0,126.5,25.5
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Information Media and Telecommunications,39.9,36.4,3.5
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Financial and Insurance Services,119.9,113.3,6.6
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,"Rental, Hiring and Real Estate Services",23.1,19.7,3.3
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,"Professional, Scientific and Technical Services",246.5,220.0,26.5
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Administrative and Support Services,52.2,34.2,18.1
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Public Administration and Safety,84.9,74.2,10.7
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Education and Training,73.1,44.1,29.0
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Health Care and Social Assistance,98.3,72.1,26.2
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Arts and Recreation Services,27.3,11.1,16.2
+2026-02-01,NSW,Greater Sydney,Greater capital city,Males,Other Services,63.9,46.8,17.0
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,"Agriculture, Forestry and Fishing",46.6,36.3,10.3
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Mining,28.6,28.1,0.5
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Manufacturing,57.3,50.0,7.3
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,"Electricity, Gas, Water and Waste Services",15.9,14.6,1.3
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Construction,132.7,111.8,20.8
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Wholesale Trade,13.3,12.0,1.4
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Retail Trade,59.9,40.2,19.7
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Accommodation and Food Services,53.6,21.6,32.0
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,"Transport, Postal and Warehousing",45.9,37.5,8.4
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Information Media and Telecommunications,7.4,5.8,1.5
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Financial and Insurance Services,8.1,7.1,1.0
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,"Rental, Hiring and Real Estate Services",8.6,6.3,2.2
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,"Professional, Scientific and Technical Services",40.7,31.7,9.0
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Administrative and Support Services,16.6,9.6,7.0
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Public Administration and Safety,48.3,44.2,4.1
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Education and Training,33.3,23.5,9.7
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Health Care and Social Assistance,64.6,43.0,21.6
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Arts and Recreation Services,14.2,7.0,7.1
+2026-02-01,NSW,Rest of NSW,Rest of state,Males,Other Services,36.8,32.2,4.6
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Agriculture, Forestry and Fishing",11.7,8.8,3.0
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Mining,3.8,3.8,0.0
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Manufacturing,150.6,138.6,12.0
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",30.6,29.6,1.0
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Construction,219.7,196.5,23.2
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Wholesale Trade,46.4,43.9,2.5
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Retail Trade,143.9,91.4,52.5
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Accommodation and Food Services,95.2,47.7,47.4
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Transport, Postal and Warehousing",130.1,99.8,30.3
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Information Media and Telecommunications,23.7,21.9,1.8
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Financial and Insurance Services,72.2,69.3,2.9
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Rental, Hiring and Real Estate Services",21.5,17.4,4.1
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,"Professional, Scientific and Technical Services",203.1,179.1,24.0
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Administrative and Support Services,42.9,27.5,15.4
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Public Administration and Safety,83.1,73.3,9.8
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Education and Training,78.6,56.8,21.8
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Health Care and Social Assistance,115.8,78.9,36.8
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Arts and Recreation Services,35.8,18.3,17.5
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Males,Other Services,65.0,56.0,9.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,"Agriculture, Forestry and Fishing",32.2,23.3,8.9
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Mining,7.6,7.6,0.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Manufacturing,39.6,37.7,1.9
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,"Electricity, Gas, Water and Waste Services",10.1,10.1,0.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Construction,72.8,65.5,7.3
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Wholesale Trade,12.1,11.7,0.4
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Retail Trade,31.7,19.7,12.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Accommodation and Food Services,25.3,9.7,15.6
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,"Transport, Postal and Warehousing",24.4,18.1,6.3
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Information Media and Telecommunications,2.3,1.8,0.5
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Financial and Insurance Services,8.5,7.3,1.1
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,"Rental, Hiring and Real Estate Services",2.9,2.5,0.4
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,"Professional, Scientific and Technical Services",21.8,18.2,3.6
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Administrative and Support Services,11.8,8.0,3.8
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Public Administration and Safety,25.7,22.7,3.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Education and Training,21.1,17.6,3.6
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Health Care and Social Assistance,33.7,21.7,12.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Arts and Recreation Services,8.0,4.1,3.9
+2026-02-01,Vic,Rest of Vic.,Rest of state,Males,Other Services,21.3,19.8,1.5
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Agriculture, Forestry and Fishing",9.1,6.4,2.6
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Mining,17.4,17.4,0.1
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Manufacturing,69.4,60.6,8.8
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",15.8,14.9,0.8
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Construction,126.2,114.9,11.4
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Wholesale Trade,17.9,15.0,2.9
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Retail Trade,65.0,38.7,26.3
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Accommodation and Food Services,50.9,23.7,27.1
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Transport, Postal and Warehousing",78.1,64.1,14.0
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Information Media and Telecommunications,6.0,5.4,0.6
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Financial and Insurance Services,21.3,20.2,1.1
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Rental, Hiring and Real Estate Services",15.5,13.9,1.5
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,"Professional, Scientific and Technical Services",92.7,82.5,10.2
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Administrative and Support Services,27.0,18.5,8.5
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Public Administration and Safety,48.8,44.8,4.1
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Education and Training,32.9,22.7,10.1
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Health Care and Social Assistance,75.2,57.1,18.1
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Arts and Recreation Services,12.4,7.7,4.6
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Males,Other Services,32.2,25.8,6.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,"Agriculture, Forestry and Fishing",35.9,28.8,7.1
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Mining,57.7,55.6,2.0
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Manufacturing,56.7,50.3,6.3
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,"Electricity, Gas, Water and Waste Services",16.2,15.5,0.7
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Construction,114.8,104.7,10.1
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Wholesale Trade,22.4,20.9,1.5
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Retail Trade,63.3,35.2,28.1
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Accommodation and Food Services,41.7,19.5,22.2
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,"Transport, Postal and Warehousing",43.1,34.6,8.5
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Information Media and Telecommunications,6.7,6.0,0.7
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Financial and Insurance Services,8.8,7.5,1.3
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,"Rental, Hiring and Real Estate Services",7.7,6.4,1.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,"Professional, Scientific and Technical Services",46.3,37.9,8.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Administrative and Support Services,23.3,17.4,5.9
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Public Administration and Safety,45.4,42.5,2.9
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Education and Training,34.5,26.2,8.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Health Care and Social Assistance,70.8,47.4,23.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Arts and Recreation Services,13.2,9.3,3.9
+2026-02-01,Qld,Rest of Qld,Rest of state,Males,Other Services,36.2,29.9,6.3
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,"Agriculture, Forestry and Fishing",3.8,3.3,0.5
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Mining,7.0,6.7,0.3
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Manufacturing,37.9,32.7,5.3
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",9.2,8.3,0.9
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Construction,61.2,53.0,8.3
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Wholesale Trade,11.3,9.8,1.5
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Retail Trade,33.5,20.1,13.4
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Accommodation and Food Services,22.3,8.7,13.5
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,"Transport, Postal and Warehousing",34.4,30.7,3.7
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Information Media and Telecommunications,4.5,3.6,0.9
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Financial and Insurance Services,12.0,11.5,0.5
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,"Rental, Hiring and Real Estate Services",5.8,5.3,0.5
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,"Professional, Scientific and Technical Services",36.8,32.9,3.9
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Administrative and Support Services,14.6,8.4,6.1
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Public Administration and Safety,30.4,28.6,1.8
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Education and Training,20.3,14.7,5.6
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Health Care and Social Assistance,45.5,32.6,12.9
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Arts and Recreation Services,7.8,4.8,3.1
+2026-02-01,SA,Greater Adelaide,Greater capital city,Males,Other Services,17.5,13.1,4.5
+2026-02-01,SA,Rest of SA,Rest of state,Males,"Agriculture, Forestry and Fishing",21.3,17.6,3.7
+2026-02-01,SA,Rest of SA,Rest of state,Males,Mining,5.2,5.2,0.1
+2026-02-01,SA,Rest of SA,Rest of state,Males,Manufacturing,12.3,10.7,1.6
+2026-02-01,SA,Rest of SA,Rest of state,Males,"Electricity, Gas, Water and Waste Services",1.4,1.1,0.3
+2026-02-01,SA,Rest of SA,Rest of state,Males,Construction,14.4,12.6,1.8
+2026-02-01,SA,Rest of SA,Rest of state,Males,Wholesale Trade,4.7,4.3,0.4
+2026-02-01,SA,Rest of SA,Rest of state,Males,Retail Trade,5.2,2.9,2.3
+2026-02-01,SA,Rest of SA,Rest of state,Males,Accommodation and Food Services,4.6,1.4,3.2
+2026-02-01,SA,Rest of SA,Rest of state,Males,"Transport, Postal and Warehousing",5.7,4.7,0.9
+2026-02-01,SA,Rest of SA,Rest of state,Males,Information Media and Telecommunications,0.0,0.0,0.0
+2026-02-01,SA,Rest of SA,Rest of state,Males,Financial and Insurance Services,1.3,1.3,0.0
+2026-02-01,SA,Rest of SA,Rest of state,Males,"Rental, Hiring and Real Estate Services",1.8,1.8,0.0
+2026-02-01,SA,Rest of SA,Rest of state,Males,"Professional, Scientific and Technical Services",3.2,3.2,0.0
+2026-02-01,SA,Rest of SA,Rest of state,Males,Administrative and Support Services,0.9,0.6,0.3
+2026-02-01,SA,Rest of SA,Rest of state,Males,Public Administration and Safety,4.8,4.2,0.6
+2026-02-01,SA,Rest of SA,Rest of state,Males,Education and Training,3.9,2.7,1.1
+2026-02-01,SA,Rest of SA,Rest of state,Males,Health Care and Social Assistance,5.0,2.6,2.4
+2026-02-01,SA,Rest of SA,Rest of state,Males,Arts and Recreation Services,1.4,0.8,0.5
+2026-02-01,SA,Rest of SA,Rest of state,Males,Other Services,3.8,3.2,0.6
+2026-02-01,WA,Greater Perth,Greater capital city,Males,"Agriculture, Forestry and Fishing",2.8,2.8,0.0
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Mining,83.1,80.3,2.8
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Manufacturing,53.9,50.7,3.2
+2026-02-01,WA,Greater Perth,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",18.2,16.8,1.5
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Construction,119.6,108.7,10.9
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Wholesale Trade,23.6,20.9,2.7
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Retail Trade,52.8,31.9,20.9
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Accommodation and Food Services,37.7,18.9,18.8
+2026-02-01,WA,Greater Perth,Greater capital city,Males,"Transport, Postal and Warehousing",53.1,41.0,12.1
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Information Media and Telecommunications,8.4,7.4,1.0
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Financial and Insurance Services,14.1,14.1,0.0
+2026-02-01,WA,Greater Perth,Greater capital city,Males,"Rental, Hiring and Real Estate Services",6.2,5.8,0.3
+2026-02-01,WA,Greater Perth,Greater capital city,Males,"Professional, Scientific and Technical Services",75.4,67.6,7.8
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Administrative and Support Services,19.7,10.9,8.7
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Public Administration and Safety,42.3,37.3,5.0
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Education and Training,30.6,25.7,4.9
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Health Care and Social Assistance,43.3,31.9,11.3
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Arts and Recreation Services,11.2,5.1,6.2
+2026-02-01,WA,Greater Perth,Greater capital city,Males,Other Services,33.3,28.6,4.7
+2026-02-01,WA,Rest of WA,Rest of state,Males,"Agriculture, Forestry and Fishing",15.1,12.5,2.6
+2026-02-01,WA,Rest of WA,Rest of state,Males,Mining,25.0,24.1,0.9
+2026-02-01,WA,Rest of WA,Rest of state,Males,Manufacturing,13.6,13.1,0.5
+2026-02-01,WA,Rest of WA,Rest of state,Males,"Electricity, Gas, Water and Waste Services",6.8,6.3,0.5
+2026-02-01,WA,Rest of WA,Rest of state,Males,Construction,29.7,28.0,1.8
+2026-02-01,WA,Rest of WA,Rest of state,Males,Wholesale Trade,4.7,4.1,0.6
+2026-02-01,WA,Rest of WA,Rest of state,Males,Retail Trade,10.0,7.2,2.8
+2026-02-01,WA,Rest of WA,Rest of state,Males,Accommodation and Food Services,6.6,3.1,3.5
+2026-02-01,WA,Rest of WA,Rest of state,Males,"Transport, Postal and Warehousing",10.5,9.3,1.2
+2026-02-01,WA,Rest of WA,Rest of state,Males,Information Media and Telecommunications,1.3,1.3,0.0
+2026-02-01,WA,Rest of WA,Rest of state,Males,Financial and Insurance Services,1.5,1.2,0.3
+2026-02-01,WA,Rest of WA,Rest of state,Males,"Rental, Hiring and Real Estate Services",2.7,2.6,0.0
+2026-02-01,WA,Rest of WA,Rest of state,Males,"Professional, Scientific and Technical Services",6.1,3.7,2.4
+2026-02-01,WA,Rest of WA,Rest of state,Males,Administrative and Support Services,3.6,1.4,2.1
+2026-02-01,WA,Rest of WA,Rest of state,Males,Public Administration and Safety,8.9,8.2,0.6
+2026-02-01,WA,Rest of WA,Rest of state,Males,Education and Training,4.5,3.1,1.4
+2026-02-01,WA,Rest of WA,Rest of state,Males,Health Care and Social Assistance,5.8,3.4,2.4
+2026-02-01,WA,Rest of WA,Rest of state,Males,Arts and Recreation Services,1.2,0.2,1.1
+2026-02-01,WA,Rest of WA,Rest of state,Males,Other Services,10.4,7.5,2.9
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,"Agriculture, Forestry and Fishing",1.6,1.3,0.3
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Mining,0.0,0.0,0.0
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Manufacturing,4.6,4.1,0.5
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,"Electricity, Gas, Water and Waste Services",2.0,1.9,0.1
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Construction,12.4,9.9,2.5
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Wholesale Trade,1.7,1.7,0.0
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Retail Trade,5.0,3.1,2.0
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Accommodation and Food Services,4.6,1.7,2.9
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,"Transport, Postal and Warehousing",3.5,2.5,1.0
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Information Media and Telecommunications,1.0,0.7,0.3
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Financial and Insurance Services,1.1,0.8,0.3
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,"Rental, Hiring and Real Estate Services",0.8,0.6,0.2
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,"Professional, Scientific and Technical Services",4.8,3.8,1.0
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Administrative and Support Services,2.2,1.6,0.6
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Public Administration and Safety,6.2,5.3,0.9
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Education and Training,4.0,3.0,0.9
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Health Care and Social Assistance,6.6,4.8,1.8
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Arts and Recreation Services,1.6,0.8,0.7
+2026-02-01,Tas,Greater Hobart,Greater capital city,Males,Other Services,1.8,1.6,0.2
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,"Agriculture, Forestry and Fishing",9.9,8.1,1.8
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Mining,2.9,2.9,0.0
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Manufacturing,9.4,8.2,1.2
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,"Electricity, Gas, Water and Waste Services",2.2,2.1,0.1
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Construction,14.1,11.9,2.2
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Wholesale Trade,2.3,1.8,0.4
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Retail Trade,6.3,2.9,3.4
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Accommodation and Food Services,4.0,1.9,2.1
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,"Transport, Postal and Warehousing",5.8,4.8,1.0
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Information Media and Telecommunications,0.4,0.3,0.1
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Financial and Insurance Services,0.4,0.3,0.1
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,"Rental, Hiring and Real Estate Services",0.5,0.5,0.0
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,"Professional, Scientific and Technical Services",3.5,3.0,0.6
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Administrative and Support Services,1.9,0.6,1.3
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Public Administration and Safety,4.1,3.9,0.2
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Education and Training,2.5,1.5,1.0
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Health Care and Social Assistance,6.6,3.5,3.1
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Arts and Recreation Services,0.8,0.7,0.2
+2026-02-01,Tas,Rest of Tas.,Rest of state,Males,Other Services,4.8,4.1,0.6
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,"Agriculture, Forestry and Fishing",1.8,1.6,0.2
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Mining,3.5,3.5,0.1
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Manufacturing,2.6,2.0,0.6
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,"Electricity, Gas, Water and Waste Services",2.5,2.3,0.2
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Construction,9.9,9.2,0.7
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Wholesale Trade,1.4,1.4,0.0
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Retail Trade,4.5,3.2,1.3
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Accommodation and Food Services,4.4,2.8,1.5
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,"Transport, Postal and Warehousing",3.9,3.2,0.7
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Information Media and Telecommunications,0.4,0.3,0.1
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Financial and Insurance Services,0.4,0.4,0.0
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,"Rental, Hiring and Real Estate Services",1.7,1.7,0.0
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,"Professional, Scientific and Technical Services",3.9,3.3,0.5
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Administrative and Support Services,1.9,1.2,0.7
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Public Administration and Safety,11.4,10.4,1.0
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Education and Training,4.1,3.6,0.6
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Health Care and Social Assistance,9.2,7.8,1.4
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Arts and Recreation Services,3.5,2.7,0.8
+2026-02-01,Northern Territory,Northern Territory,Territory,Males,Other Services,4.4,4.0,0.5
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Agriculture, Forestry and Fishing",0.3,0.2,0.1
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Mining,0.8,0.8,0.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Manufacturing,2.5,2.1,0.4
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Electricity, Gas, Water and Waste Services",1.8,1.8,0.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Construction,16.9,15.4,1.6
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Wholesale Trade,0.7,0.7,0.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Retail Trade,6.2,3.2,3.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Accommodation and Food Services,8.6,4.1,4.5
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Transport, Postal and Warehousing",4.7,3.5,1.2
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Information Media and Telecommunications,2.6,1.9,0.7
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Financial and Insurance Services,1.6,1.5,0.2
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Rental, Hiring and Real Estate Services",0.8,0.4,0.4
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,"Professional, Scientific and Technical Services",25.6,22.3,3.3
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Administrative and Support Services,2.9,2.5,0.5
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Public Administration and Safety,37.7,35.4,2.3
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Education and Training,9.0,6.4,2.6
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Health Care and Social Assistance,9.0,7.5,1.5
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Arts and Recreation Services,1.8,1.6,0.2
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Males,Other Services,4.4,3.1,1.3
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,"Agriculture, Forestry and Fishing",3.9,3.4,0.5
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Mining,0.7,0.7,0.0
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Manufacturing,54.7,39.2,15.5
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",5.9,5.9,0.0
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Construction,43.7,27.2,16.5
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Wholesale Trade,23.1,19.3,3.8
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Retail Trade,149.1,67.0,82.1
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Accommodation and Food Services,82.5,31.7,50.8
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,"Transport, Postal and Warehousing",50.7,36.5,14.1
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Information Media and Telecommunications,22.2,18.2,4.0
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Financial and Insurance Services,91.7,80.8,10.9
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,"Rental, Hiring and Real Estate Services",26.9,18.5,8.4
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,"Professional, Scientific and Technical Services",181.7,136.6,45.1
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Administrative and Support Services,50.8,27.9,22.9
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Public Administration and Safety,98.0,83.2,14.8
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Education and Training,195.1,103.1,92.0
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Health Care and Social Assistance,325.1,184.7,140.4
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Arts and Recreation Services,25.1,12.1,13.0
+2026-02-01,NSW,Greater Sydney,Greater capital city,Females,Other Services,50.8,26.6,24.2
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,"Agriculture, Forestry and Fishing",23.4,13.7,9.7
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Mining,4.2,3.6,0.6
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Manufacturing,23.1,12.1,11.0
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,"Electricity, Gas, Water and Waste Services",5.1,2.7,2.4
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Construction,14.6,9.5,5.1
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Wholesale Trade,6.6,2.4,4.2
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Retail Trade,68.8,26.9,41.9
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Accommodation and Food Services,60.5,23.4,37.1
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,"Transport, Postal and Warehousing",16.2,9.0,7.2
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Information Media and Telecommunications,3.6,1.7,1.9
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Financial and Insurance Services,17.9,12.8,5.0
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,"Rental, Hiring and Real Estate Services",9.2,6.0,3.3
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,"Professional, Scientific and Technical Services",51.1,31.5,19.6
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Administrative and Support Services,22.4,11.4,10.9
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Public Administration and Safety,51.4,39.5,11.9
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Education and Training,88.6,52.4,36.1
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Health Care and Social Assistance,198.5,100.4,98.1
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Arts and Recreation Services,10.5,3.5,6.9
+2026-02-01,NSW,Rest of NSW,Rest of state,Females,Other Services,27.0,13.8,13.2
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Agriculture, Forestry and Fishing",7.0,4.4,2.6
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Mining,3.0,1.2,1.7
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Manufacturing,60.9,42.5,18.3
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",14.8,14.3,0.5
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Construction,44.7,27.4,17.4
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Wholesale Trade,22.1,16.6,5.5
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Retail Trade,149.3,69.4,79.9
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Accommodation and Food Services,91.2,31.5,59.7
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Transport, Postal and Warehousing",47.3,30.7,16.5
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Information Media and Telecommunications,19.2,12.4,6.9
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Financial and Insurance Services,73.6,61.3,12.3
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Rental, Hiring and Real Estate Services",20.6,12.6,8.0
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,"Professional, Scientific and Technical Services",156.1,104.2,51.9
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Administrative and Support Services,46.3,24.4,21.9
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Public Administration and Safety,77.5,56.7,20.9
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Education and Training,199.8,107.6,92.2
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Health Care and Social Assistance,358.2,174.7,183.5
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Arts and Recreation Services,27.0,12.9,14.1
+2026-02-01,Vic,Greater Melbourne,Greater capital city,Females,Other Services,47.6,22.9,24.7
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,"Agriculture, Forestry and Fishing",14.8,6.9,7.9
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Mining,0.5,0.5,0.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Manufacturing,16.7,11.0,5.7
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,"Electricity, Gas, Water and Waste Services",3.2,1.8,1.5
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Construction,8.9,4.8,4.1
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Wholesale Trade,6.4,5.8,0.6
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Retail Trade,46.8,19.8,27.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Accommodation and Food Services,25.3,8.5,16.8
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,"Transport, Postal and Warehousing",4.5,2.3,2.2
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Information Media and Telecommunications,3.1,1.4,1.7
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Financial and Insurance Services,10.1,7.8,2.3
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,"Rental, Hiring and Real Estate Services",2.9,2.2,0.6
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,"Professional, Scientific and Technical Services",14.2,7.2,7.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Administrative and Support Services,7.6,2.2,5.3
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Public Administration and Safety,18.4,12.7,5.7
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Education and Training,66.1,28.7,37.4
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Health Care and Social Assistance,124.3,61.3,63.0
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Arts and Recreation Services,10.5,3.2,7.3
+2026-02-01,Vic,Rest of Vic.,Rest of state,Females,Other Services,7.8,2.5,5.3
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Agriculture, Forestry and Fishing",4.7,4.1,0.6
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Mining,6.1,4.1,2.0
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Manufacturing,21.0,15.1,5.9
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",10.1,9.4,0.8
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Construction,17.7,8.3,9.5
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Wholesale Trade,12.8,7.8,5.0
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Retail Trade,70.7,31.0,39.7
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Accommodation and Food Services,62.7,20.4,42.3
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Transport, Postal and Warehousing",25.8,18.5,7.3
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Information Media and Telecommunications,6.3,5.8,0.6
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Financial and Insurance Services,25.4,23.0,2.4
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Rental, Hiring and Real Estate Services",13.9,9.9,4.0
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,"Professional, Scientific and Technical Services",73.2,57.5,15.7
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Administrative and Support Services,22.4,13.1,9.3
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Public Administration and Safety,54.7,45.3,9.4
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Education and Training,90.8,51.7,39.1
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Health Care and Social Assistance,196.0,108.0,87.9
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Arts and Recreation Services,13.3,3.9,9.4
+2026-02-01,Qld,Greater Brisbane,Greater capital city,Females,Other Services,31.3,17.4,13.9
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,"Agriculture, Forestry and Fishing",20.2,11.7,8.5
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Mining,9.2,8.2,1.0
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Manufacturing,18.2,14.8,3.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,"Electricity, Gas, Water and Waste Services",6.1,5.1,1.0
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Construction,22.8,12.7,10.1
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Wholesale Trade,9.8,6.6,3.2
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Retail Trade,83.1,30.9,52.2
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Accommodation and Food Services,62.8,23.9,38.8
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,"Transport, Postal and Warehousing",12.5,7.2,5.3
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Information Media and Telecommunications,5.8,4.5,1.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Financial and Insurance Services,18.0,14.0,4.0
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,"Rental, Hiring and Real Estate Services",11.1,6.0,5.1
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,"Professional, Scientific and Technical Services",35.6,20.7,14.9
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Administrative and Support Services,26.3,12.9,13.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Public Administration and Safety,33.6,25.2,8.4
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Education and Training,103.1,56.9,46.2
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Health Care and Social Assistance,195.4,103.2,92.2
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Arts and Recreation Services,9.6,5.0,4.6
+2026-02-01,Qld,Rest of Qld,Rest of state,Females,Other Services,27.0,12.8,14.1
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,"Agriculture, Forestry and Fishing",2.2,1.1,1.1
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Mining,3.0,1.8,1.2
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Manufacturing,12.3,8.7,3.6
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",2.2,1.7,0.5
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Construction,6.4,3.7,2.7
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Wholesale Trade,6.4,4.9,1.5
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Retail Trade,35.6,11.3,24.4
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Accommodation and Food Services,31.1,8.8,22.3
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,"Transport, Postal and Warehousing",5.8,4.3,1.5
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Information Media and Telecommunications,3.6,2.3,1.3
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Financial and Insurance Services,12.3,9.9,2.4
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,"Rental, Hiring and Real Estate Services",6.2,3.2,3.0
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,"Professional, Scientific and Technical Services",26.0,19.0,7.0
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Administrative and Support Services,13.7,7.5,6.2
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Public Administration and Safety,25.1,18.7,6.4
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Education and Training,49.2,29.3,19.9
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Health Care and Social Assistance,123.7,59.0,64.7
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Arts and Recreation Services,6.9,1.9,5.0
+2026-02-01,SA,Greater Adelaide,Greater capital city,Females,Other Services,13.3,6.6,6.7
+2026-02-01,SA,Rest of SA,Rest of state,Females,"Agriculture, Forestry and Fishing",8.7,4.9,3.8
+2026-02-01,SA,Rest of SA,Rest of state,Females,Mining,0.9,0.9,0.0
+2026-02-01,SA,Rest of SA,Rest of state,Females,Manufacturing,4.1,1.8,2.3
+2026-02-01,SA,Rest of SA,Rest of state,Females,"Electricity, Gas, Water and Waste Services",0.6,0.0,0.6
+2026-02-01,SA,Rest of SA,Rest of state,Females,Construction,0.9,0.4,0.4
+2026-02-01,SA,Rest of SA,Rest of state,Females,Wholesale Trade,0.5,0.3,0.2
+2026-02-01,SA,Rest of SA,Rest of state,Females,Retail Trade,11.0,3.5,7.6
+2026-02-01,SA,Rest of SA,Rest of state,Females,Accommodation and Food Services,9.3,2.7,6.6
+2026-02-01,SA,Rest of SA,Rest of state,Females,"Transport, Postal and Warehousing",4.3,2.1,2.2
+2026-02-01,SA,Rest of SA,Rest of state,Females,Information Media and Telecommunications,0.3,0.0,0.3
+2026-02-01,SA,Rest of SA,Rest of state,Females,Financial and Insurance Services,0.9,0.8,0.0
+2026-02-01,SA,Rest of SA,Rest of state,Females,"Rental, Hiring and Real Estate Services",1.1,0.8,0.4
+2026-02-01,SA,Rest of SA,Rest of state,Females,"Professional, Scientific and Technical Services",4.6,2.2,2.4
+2026-02-01,SA,Rest of SA,Rest of state,Females,Administrative and Support Services,3.1,1.8,1.3
+2026-02-01,SA,Rest of SA,Rest of state,Females,Public Administration and Safety,4.6,2.5,2.1
+2026-02-01,SA,Rest of SA,Rest of state,Females,Education and Training,10.5,4.9,5.6
+2026-02-01,SA,Rest of SA,Rest of state,Females,Health Care and Social Assistance,27.3,11.2,16.1
+2026-02-01,SA,Rest of SA,Rest of state,Females,Arts and Recreation Services,1.7,0.3,1.4
+2026-02-01,SA,Rest of SA,Rest of state,Females,Other Services,1.8,0.6,1.3
+2026-02-01,WA,Greater Perth,Greater capital city,Females,"Agriculture, Forestry and Fishing",5.0,3.3,1.7
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Mining,25.3,22.8,2.6
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Manufacturing,21.8,12.2,9.6
+2026-02-01,WA,Greater Perth,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",5.7,4.1,1.5
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Construction,21.0,14.5,6.5
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Wholesale Trade,10.5,6.9,3.6
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Retail Trade,78.7,27.9,50.7
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Accommodation and Food Services,46.4,13.4,33.0
+2026-02-01,WA,Greater Perth,Greater capital city,Females,"Transport, Postal and Warehousing",13.5,11.1,2.4
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Information Media and Telecommunications,2.7,0.5,2.2
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Financial and Insurance Services,15.6,10.2,5.4
+2026-02-01,WA,Greater Perth,Greater capital city,Females,"Rental, Hiring and Real Estate Services",10.1,6.8,3.3
+2026-02-01,WA,Greater Perth,Greater capital city,Females,"Professional, Scientific and Technical Services",46.6,31.5,15.1
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Administrative and Support Services,18.8,12.9,5.8
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Public Administration and Safety,41.7,31.0,10.7
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Education and Training,85.2,48.5,36.7
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Health Care and Social Assistance,160.8,80.1,80.7
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Arts and Recreation Services,11.5,6.4,5.1
+2026-02-01,WA,Greater Perth,Greater capital city,Females,Other Services,26.9,14.1,12.8
+2026-02-01,WA,Rest of WA,Rest of state,Females,"Agriculture, Forestry and Fishing",6.4,4.6,1.8
+2026-02-01,WA,Rest of WA,Rest of state,Females,Mining,9.7,8.4,1.3
+2026-02-01,WA,Rest of WA,Rest of state,Females,Manufacturing,4.8,3.4,1.4
+2026-02-01,WA,Rest of WA,Rest of state,Females,"Electricity, Gas, Water and Waste Services",2.1,1.6,0.5
+2026-02-01,WA,Rest of WA,Rest of state,Females,Construction,2.2,0.8,1.3
+2026-02-01,WA,Rest of WA,Rest of state,Females,Wholesale Trade,0.9,0.9,0.0
+2026-02-01,WA,Rest of WA,Rest of state,Females,Retail Trade,16.7,7.0,9.7
+2026-02-01,WA,Rest of WA,Rest of state,Females,Accommodation and Food Services,8.7,4.5,4.2
+2026-02-01,WA,Rest of WA,Rest of state,Females,"Transport, Postal and Warehousing",3.9,2.3,1.6
+2026-02-01,WA,Rest of WA,Rest of state,Females,Information Media and Telecommunications,1.1,1.1,0.0
+2026-02-01,WA,Rest of WA,Rest of state,Females,Financial and Insurance Services,2.1,1.3,0.8
+2026-02-01,WA,Rest of WA,Rest of state,Females,"Rental, Hiring and Real Estate Services",0.6,0.5,0.1
+2026-02-01,WA,Rest of WA,Rest of state,Females,"Professional, Scientific and Technical Services",8.0,3.8,4.1
+2026-02-01,WA,Rest of WA,Rest of state,Females,Administrative and Support Services,1.9,1.3,0.6
+2026-02-01,WA,Rest of WA,Rest of state,Females,Public Administration and Safety,8.8,5.7,3.1
+2026-02-01,WA,Rest of WA,Rest of state,Females,Education and Training,21.1,12.4,8.7
+2026-02-01,WA,Rest of WA,Rest of state,Females,Health Care and Social Assistance,23.7,11.0,12.8
+2026-02-01,WA,Rest of WA,Rest of state,Females,Arts and Recreation Services,2.1,0.7,1.4
+2026-02-01,WA,Rest of WA,Rest of state,Females,Other Services,8.0,4.9,3.1
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,"Agriculture, Forestry and Fishing",1.7,1.0,0.7
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Mining,0.0,0.0,0.0
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Manufacturing,1.8,1.1,0.7
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,"Electricity, Gas, Water and Waste Services",0.8,0.8,0.0
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Construction,1.5,1.2,0.3
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Wholesale Trade,0.8,0.7,0.1
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Retail Trade,7.4,1.9,5.5
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Accommodation and Food Services,4.4,1.1,3.3
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,"Transport, Postal and Warehousing",0.5,0.2,0.2
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Information Media and Telecommunications,0.7,0.6,0.1
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Financial and Insurance Services,1.1,0.8,0.2
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,"Rental, Hiring and Real Estate Services",0.4,0.4,0.0
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,"Professional, Scientific and Technical Services",4.1,2.7,1.5
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Administrative and Support Services,2.3,0.8,1.5
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Public Administration and Safety,6.6,4.9,1.7
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Education and Training,8.7,4.3,4.4
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Health Care and Social Assistance,18.3,9.0,9.3
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Arts and Recreation Services,1.0,0.3,0.8
+2026-02-01,Tas,Greater Hobart,Greater capital city,Females,Other Services,2.3,0.9,1.4
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,"Agriculture, Forestry and Fishing",3.7,2.2,1.5
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Mining,0.5,0.5,0.0
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Manufacturing,2.5,1.3,1.2
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,"Electricity, Gas, Water and Waste Services",1.2,0.7,0.5
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Construction,1.6,0.7,0.9
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Wholesale Trade,0.9,0.6,0.3
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Retail Trade,7.7,3.0,4.7
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Accommodation and Food Services,6.4,1.9,4.5
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,"Transport, Postal and Warehousing",1.8,1.2,0.7
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Information Media and Telecommunications,0.3,0.3,0.0
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Financial and Insurance Services,1.1,1.0,0.1
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,"Rental, Hiring and Real Estate Services",0.8,0.4,0.4
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,"Professional, Scientific and Technical Services",2.6,1.4,1.2
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Administrative and Support Services,2.1,0.8,1.3
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Public Administration and Safety,4.4,2.7,1.7
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Education and Training,7.6,3.4,4.2
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Health Care and Social Assistance,21.2,8.5,12.7
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Arts and Recreation Services,1.7,1.1,0.7
+2026-02-01,Tas,Rest of Tas.,Rest of state,Females,Other Services,2.2,1.5,0.7
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,"Agriculture, Forestry and Fishing",0.9,0.8,0.1
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Mining,0.8,0.7,0.1
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Manufacturing,0.9,0.5,0.4
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,"Electricity, Gas, Water and Waste Services",0.7,0.6,0.1
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Construction,2.0,1.5,0.5
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Wholesale Trade,0.8,0.6,0.2
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Retail Trade,5.1,2.6,2.4
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Accommodation and Food Services,5.7,3.0,2.7
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,"Transport, Postal and Warehousing",1.2,0.9,0.3
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Information Media and Telecommunications,0.2,0.2,0.0
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Financial and Insurance Services,0.6,0.6,0.0
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,"Rental, Hiring and Real Estate Services",0.6,0.5,0.1
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,"Professional, Scientific and Technical Services",3.4,2.5,0.9
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Administrative and Support Services,1.8,0.9,0.9
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Public Administration and Safety,10.8,9.1,1.7
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Education and Training,10.6,7.7,2.9
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Health Care and Social Assistance,19.5,15.7,3.8
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Arts and Recreation Services,1.9,1.1,0.7
+2026-02-01,Northern Territory,Northern Territory,Territory,Females,Other Services,2.7,1.4,1.3
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Agriculture, Forestry and Fishing",0.5,0.5,0.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Mining,0.3,0.3,0.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Manufacturing,0.9,0.9,0.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Electricity, Gas, Water and Waste Services",0.8,0.8,0.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Construction,2.9,1.2,1.6
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Wholesale Trade,0.0,0.0,0.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Retail Trade,9.6,4.3,5.3
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Accommodation and Food Services,6.9,2.6,4.2
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Transport, Postal and Warehousing",1.3,1.1,0.3
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Information Media and Telecommunications,1.7,1.5,0.2
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Financial and Insurance Services,2.0,1.8,0.2
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Rental, Hiring and Real Estate Services",1.6,1.1,0.4
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,"Professional, Scientific and Technical Services",15.1,11.5,3.6
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Administrative and Support Services,3.5,2.2,1.3
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Public Administration and Safety,40.8,34.0,6.7
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Education and Training,19.4,13.6,5.8
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Health Care and Social Assistance,25.2,16.3,9.0
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Arts and Recreation Services,4.4,1.8,2.6
+2026-02-01,Australian Capital Territory,Australian Capital Territory,Territory,Females,Other Services,3.0,1.4,1.6

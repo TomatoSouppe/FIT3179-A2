@@ -1,0 +1,188 @@
+{
+  "width": 380,
+  "height": 600,
+  "title": {
+    "text": "Each industry's share of all jobs: 1996 vs 2026",
+    "subtitle": "Teal = gained share of jobs, orange = lost share. Labels show the change in percentage points.",
+    "anchor": "start",
+    "fontSize": 15
+  },
+  "data": {
+    "url": "data/industry_share_1996_2026.csv"
+  },
+  "transform": [
+    {
+      "calculate": "datum.change > 0.5 ? 'Gained share' : (datum.change < -0.5 ? 'Lost share' : 'About the same')",
+      "as": "dir"
+    },
+    {
+      "fold": [
+        "share_1996",
+        "share_2026"
+      ],
+      "as": [
+        "k",
+        "share"
+      ]
+    },
+    {
+      "calculate": "datum.k == 'share_1996' ? '1996' : '2026'",
+      "as": "year"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "axis": {
+        "title": null,
+        "labelFontSize": 13,
+        "orient": "top",
+        "domain": false,
+        "ticks": false,
+        "labelAngle": 0
+      },
+      "scale": {
+        "padding": 0.02
+      }
+    },
+    "y": {
+      "field": "share",
+      "type": "quantitative",
+      "axis": null,
+      "scale": {
+        "domain": [
+          0,
+          17
+        ]
+      }
+    },
+    "color": {
+      "field": "dir",
+      "type": "nominal",
+      "title": null,
+      "scale": {
+        "domain": [
+          "Gained share",
+          "About the same",
+          "Lost share"
+        ],
+        "range": [
+          "#1f6f8b",
+          "#b3b0a6",
+          "#c4572b"
+        ]
+      },
+      "legend": {
+        "orient": "bottom"
+      }
+    },
+    "detail": {
+      "field": "industry",
+      "type": "nominal"
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.2
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "industry",
+            "title": "Industry"
+          },
+          {
+            "field": "share_1996",
+            "title": "1996 share (%)"
+          },
+          {
+            "field": "share_2026",
+            "title": "2026 share (%)"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 50
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.label_right != null"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 9,
+        "fontSize": 11
+      },
+      "encoding": {
+        "x": {
+          "datum": "2026",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "ly26",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label_right",
+          "type": "nominal"
+        },
+        "color": {
+          "field": "dir",
+          "type": "nominal",
+          "legend": null
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.label_left != null"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "dx": -9,
+        "fontSize": 11
+      },
+      "encoding": {
+        "x": {
+          "datum": "1996",
+          "type": "ordinal"
+        },
+        "y": {
+          "field": "ly96",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "label_left",
+          "type": "nominal"
+        },
+        "color": {
+          "field": "dir",
+          "type": "nominal",
+          "legend": null
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  },
+  "padding": {
+    "right": 250,
+    "left": 40
+  }
+}

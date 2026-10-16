@@ -1,0 +1,149 @@
+{
+  "title": {
+    "text": "How old are the people in each industry? Feb 2026",
+    "subtitle": "Each hill shows the age spread of that industry's workers. Industries with more older workers are at the top.",
+    "anchor": "start",
+    "fontSize": 15
+  },
+  "data": {
+    "url": "data/eq12_age.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.date == '2026-02-01'"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "employed",
+          "as": "tot"
+        }
+      ],
+      "groupby": [
+        "industry"
+      ]
+    },
+    {
+      "calculate": "datum.employed / datum.tot * 100",
+      "as": "share"
+    },
+    {
+      "calculate": "indexof([\"15-19 years\", \"20-24 years\", \"25-29 years\", \"30-34 years\", \"35-39 years\", \"40-44 years\", \"45-49 years\", \"50-54 years\", \"55-59 years\", \"60-64 years\", \"65 years and over\"], datum.age)",
+      "as": "i"
+    },
+    {
+      "calculate": "indexof([\"55-59 years\", \"60-64 years\", \"65 years and over\"], datum.age) >= 0 ? datum.share : 0",
+      "as": "old"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "old",
+          "as": "old_share"
+        }
+      ],
+      "groupby": [
+        "industry"
+      ]
+    }
+  ],
+  "facet": {
+    "row": {
+      "field": "industry",
+      "type": "nominal",
+      "title": null,
+      "sort": {
+        "field": "old_share",
+        "op": "max",
+        "order": "descending"
+      },
+      "header": {
+        "labelAngle": 0,
+        "labelAlign": "left",
+        "labelPadding": 8,
+        "labelFontSize": 11,
+        "labelLimit": 0
+      }
+    }
+  },
+  "spec": {
+    "width": 420,
+    "height": 52,
+    "mark": {
+      "type": "area",
+      "interpolate": "monotone",
+      "fill": "#1f6f8b",
+      "fillOpacity": 0.85,
+      "stroke": "#ffffff",
+      "strokeWidth": 1
+    },
+    "encoding": {
+      "x": {
+        "field": "i",
+        "type": "quantitative",
+        "title": "Age group",
+        "scale": {
+          "domain": [
+            0,
+            10
+          ],
+          "nice": false
+        },
+        "axis": {
+          "values": [
+            0,
+            2,
+            4,
+            6,
+            8,
+            10
+          ],
+          "labelExpr": "['15-19','25-29','35-39','45-49','55-59','65+'][datum.value/2]",
+          "grid": false
+        }
+      },
+      "y": {
+        "field": "share",
+        "type": "quantitative",
+        "axis": null,
+        "scale": {
+          "domain": [
+            0,
+            22
+          ]
+        }
+      },
+      "tooltip": [
+        {
+          "field": "industry",
+          "title": "Industry"
+        },
+        {
+          "field": "age",
+          "title": "Age"
+        },
+        {
+          "field": "share",
+          "title": "% of industry's workers",
+          "format": ".1f"
+        },
+        {
+          "field": "old_share",
+          "title": "% aged 55 and over",
+          "format": ".0f"
+        }
+      ]
+    }
+  },
+  "spacing": -24,
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "facet": {
+      "spacing": -24
+    }
+  }
+}

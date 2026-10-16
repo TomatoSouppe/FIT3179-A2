@@ -1,0 +1,281 @@
+region,industry,women_pct,total,women,col,row,label
+Australian Capital Territory,Accommodation and Food Services,44.5,15.5,6.9,3,2,ACT
+Australian Capital Territory,Administrative and Support Services,54.7,6.4,3.5,3,2,ACT
+Australian Capital Territory,"Agriculture, Forestry and Fishing",,0.8,0.5,3,2,ACT
+Australian Capital Territory,All industries,50.4,277.8,139.9,3,2,ACT
+Australian Capital Territory,Arts and Recreation Services,71.0,6.2,4.4,3,2,ACT
+Australian Capital Territory,Construction,14.6,19.8,2.9,3,2,ACT
+Australian Capital Territory,Education and Training,68.3,28.4,19.4,3,2,ACT
+Australian Capital Territory,"Electricity, Gas, Water and Waste Services",,2.6,0.8,3,2,ACT
+Australian Capital Territory,Financial and Insurance Services,55.6,3.6,2.0,3,2,ACT
+Australian Capital Territory,Health Care and Social Assistance,73.7,34.2,25.2,3,2,ACT
+Australian Capital Territory,Information Media and Telecommunications,39.5,4.3,1.7,3,2,ACT
+Australian Capital Territory,Manufacturing,26.5,3.4,0.9,3,2,ACT
+Australian Capital Territory,Mining,,1.1,0.3,3,2,ACT
+Australian Capital Territory,Other Services,40.5,7.4,3.0,3,2,ACT
+Australian Capital Territory,"Professional, Scientific and Technical Services",37.1,40.7,15.1,3,2,ACT
+Australian Capital Territory,Public Administration and Safety,52.0,78.5,40.8,3,2,ACT
+Australian Capital Territory,"Rental, Hiring and Real Estate Services",,2.4,1.6,3,2,ACT
+Australian Capital Territory,Retail Trade,60.8,15.8,9.6,3,2,ACT
+Australian Capital Territory,"Transport, Postal and Warehousing",21.7,6.0,1.3,3,2,ACT
+Australian Capital Territory,Wholesale Trade,,0.7,0.0,3,2,ACT
+Greater Adelaide,Accommodation and Food Services,58.2,53.4,31.1,1,2,Adelaide
+Greater Adelaide,Administrative and Support Services,48.4,28.3,13.7,1,2,Adelaide
+Greater Adelaide,"Agriculture, Forestry and Fishing",36.7,6.0,2.2,1,2,Adelaide
+Greater Adelaide,All industries,48.1,800.8,385.0,1,2,Adelaide
+Greater Adelaide,Arts and Recreation Services,46.9,14.7,6.9,1,2,Adelaide
+Greater Adelaide,Construction,9.5,67.6,6.4,1,2,Adelaide
+Greater Adelaide,Education and Training,70.8,69.5,49.2,1,2,Adelaide
+Greater Adelaide,"Electricity, Gas, Water and Waste Services",19.3,11.4,2.2,1,2,Adelaide
+Greater Adelaide,Financial and Insurance Services,50.6,24.3,12.3,1,2,Adelaide
+Greater Adelaide,Health Care and Social Assistance,73.1,169.2,123.7,1,2,Adelaide
+Greater Adelaide,Information Media and Telecommunications,44.4,8.1,3.6,1,2,Adelaide
+Greater Adelaide,Manufacturing,24.5,50.2,12.3,1,2,Adelaide
+Greater Adelaide,Mining,30.0,10.0,3.0,1,2,Adelaide
+Greater Adelaide,Other Services,43.2,30.8,13.3,1,2,Adelaide
+Greater Adelaide,"Professional, Scientific and Technical Services",41.4,62.8,26.0,1,2,Adelaide
+Greater Adelaide,Public Administration and Safety,45.2,55.5,25.1,1,2,Adelaide
+Greater Adelaide,"Rental, Hiring and Real Estate Services",51.7,12.0,6.2,1,2,Adelaide
+Greater Adelaide,Retail Trade,51.5,69.1,35.6,1,2,Adelaide
+Greater Adelaide,"Transport, Postal and Warehousing",14.4,40.2,5.8,1,2,Adelaide
+Greater Adelaide,Wholesale Trade,36.2,17.7,6.4,1,2,Adelaide
+Greater Brisbane,Accommodation and Food Services,55.2,113.6,62.7,3,0,Brisbane
+Greater Brisbane,Administrative and Support Services,45.3,49.4,22.4,3,0,Brisbane
+Greater Brisbane,"Agriculture, Forestry and Fishing",34.1,13.8,4.7,3,0,Brisbane
+Greater Brisbane,All industries,48.3,1572.7,758.9,3,0,Brisbane
+Greater Brisbane,Arts and Recreation Services,51.8,25.7,13.3,3,0,Brisbane
+Greater Brisbane,Construction,12.3,143.9,17.7,3,0,Brisbane
+Greater Brisbane,Education and Training,73.4,123.7,90.8,3,0,Brisbane
+Greater Brisbane,"Electricity, Gas, Water and Waste Services",39.0,25.9,10.1,3,0,Brisbane
+Greater Brisbane,Financial and Insurance Services,54.4,46.7,25.4,3,0,Brisbane
+Greater Brisbane,Health Care and Social Assistance,72.3,271.2,196.0,3,0,Brisbane
+Greater Brisbane,Information Media and Telecommunications,51.2,12.3,6.3,3,0,Brisbane
+Greater Brisbane,Manufacturing,23.2,90.4,21.0,3,0,Brisbane
+Greater Brisbane,Mining,26.0,23.5,6.1,3,0,Brisbane
+Greater Brisbane,Other Services,49.3,63.5,31.3,3,0,Brisbane
+Greater Brisbane,"Professional, Scientific and Technical Services",44.1,165.9,73.2,3,0,Brisbane
+Greater Brisbane,Public Administration and Safety,52.9,103.5,54.7,3,0,Brisbane
+Greater Brisbane,"Rental, Hiring and Real Estate Services",47.3,29.4,13.9,3,0,Brisbane
+Greater Brisbane,Retail Trade,52.1,135.7,70.7,3,0,Brisbane
+Greater Brisbane,"Transport, Postal and Warehousing",24.8,103.9,25.8,3,0,Brisbane
+Greater Brisbane,Wholesale Trade,41.7,30.7,12.8,3,0,Brisbane
+Greater Hobart,Accommodation and Food Services,48.9,9.0,4.4,3,4,Hobart
+Greater Hobart,Administrative and Support Services,51.1,4.5,2.3,3,4,Hobart
+Greater Hobart,"Agriculture, Forestry and Fishing",51.5,3.3,1.7,3,4,Hobart
+Greater Hobart,All industries,49.6,129.9,64.4,3,4,Hobart
+Greater Hobart,Arts and Recreation Services,,2.6,1.0,3,4,Hobart
+Greater Hobart,Construction,10.8,13.9,1.5,3,4,Hobart
+Greater Hobart,Education and Training,68.5,12.7,8.7,3,4,Hobart
+Greater Hobart,"Electricity, Gas, Water and Waste Services",,2.8,0.8,3,4,Hobart
+Greater Hobart,Financial and Insurance Services,,2.2,1.1,3,4,Hobart
+Greater Hobart,Health Care and Social Assistance,73.5,24.9,18.3,3,4,Hobart
+Greater Hobart,Information Media and Telecommunications,,1.7,0.7,3,4,Hobart
+Greater Hobart,Manufacturing,28.1,6.4,1.8,3,4,Hobart
+Greater Hobart,Mining,,0.0,0.0,3,4,Hobart
+Greater Hobart,Other Services,56.1,4.1,2.3,3,4,Hobart
+Greater Hobart,"Professional, Scientific and Technical Services",46.1,8.9,4.1,3,4,Hobart
+Greater Hobart,Public Administration and Safety,51.6,12.8,6.6,3,4,Hobart
+Greater Hobart,"Rental, Hiring and Real Estate Services",,1.2,0.4,3,4,Hobart
+Greater Hobart,Retail Trade,59.7,12.4,7.4,3,4,Hobart
+Greater Hobart,"Transport, Postal and Warehousing",12.5,4.0,0.5,3,4,Hobart
+Greater Hobart,Wholesale Trade,,2.5,0.8,3,4,Hobart
+Greater Melbourne,Accommodation and Food Services,48.9,186.4,91.2,2,3,Melbourne
+Greater Melbourne,Administrative and Support Services,51.9,89.2,46.3,2,3,Melbourne
+Greater Melbourne,"Agriculture, Forestry and Fishing",37.4,18.7,7.0,2,3,Melbourne
+Greater Melbourne,All industries,48.2,3039.9,1466.2,2,3,Melbourne
+Greater Melbourne,Arts and Recreation Services,43.0,62.8,27.0,2,3,Melbourne
+Greater Melbourne,Construction,16.9,264.4,44.7,2,3,Melbourne
+Greater Melbourne,Education and Training,71.8,278.4,199.8,2,3,Melbourne
+Greater Melbourne,"Electricity, Gas, Water and Waste Services",32.6,45.4,14.8,2,3,Melbourne
+Greater Melbourne,Financial and Insurance Services,50.5,145.8,73.6,2,3,Melbourne
+Greater Melbourne,Health Care and Social Assistance,75.6,474.0,358.2,2,3,Melbourne
+Greater Melbourne,Information Media and Telecommunications,44.8,42.9,19.2,2,3,Melbourne
+Greater Melbourne,Manufacturing,28.8,211.5,60.9,2,3,Melbourne
+Greater Melbourne,Mining,44.1,6.8,3.0,2,3,Melbourne
+Greater Melbourne,Other Services,42.3,112.6,47.6,2,3,Melbourne
+Greater Melbourne,"Professional, Scientific and Technical Services",43.5,359.2,156.1,2,3,Melbourne
+Greater Melbourne,Public Administration and Safety,48.3,160.6,77.5,2,3,Melbourne
+Greater Melbourne,"Rental, Hiring and Real Estate Services",48.9,42.1,20.6,2,3,Melbourne
+Greater Melbourne,Retail Trade,50.9,293.2,149.3,2,3,Melbourne
+Greater Melbourne,"Transport, Postal and Warehousing",26.7,177.4,47.3,2,3,Melbourne
+Greater Melbourne,Wholesale Trade,32.3,68.5,22.1,2,3,Melbourne
+Greater Perth,Accommodation and Food Services,55.2,84.1,46.4,0,2,Perth
+Greater Perth,Administrative and Support Services,48.8,38.5,18.8,0,2,Perth
+Greater Perth,"Agriculture, Forestry and Fishing",64.1,7.8,5.0,0,2,Perth
+Greater Perth,All industries,47.0,1377.1,647.8,0,2,Perth
+Greater Perth,Arts and Recreation Services,50.7,22.7,11.5,0,2,Perth
+Greater Perth,Construction,14.9,140.6,21.0,0,2,Perth
+Greater Perth,Education and Training,73.6,115.8,85.2,0,2,Perth
+Greater Perth,"Electricity, Gas, Water and Waste Services",23.8,23.9,5.7,0,2,Perth
+Greater Perth,Financial and Insurance Services,52.5,29.7,15.6,0,2,Perth
+Greater Perth,Health Care and Social Assistance,78.8,204.1,160.8,0,2,Perth
+Greater Perth,Information Media and Telecommunications,24.3,11.1,2.7,0,2,Perth
+Greater Perth,Manufacturing,28.8,75.7,21.8,0,2,Perth
+Greater Perth,Mining,23.3,108.4,25.3,0,2,Perth
+Greater Perth,Other Services,44.7,60.2,26.9,0,2,Perth
+Greater Perth,"Professional, Scientific and Technical Services",38.2,122.0,46.6,0,2,Perth
+Greater Perth,Public Administration and Safety,49.6,84.0,41.7,0,2,Perth
+Greater Perth,"Rental, Hiring and Real Estate Services",62.0,16.3,10.1,0,2,Perth
+Greater Perth,Retail Trade,59.8,131.5,78.7,0,2,Perth
+Greater Perth,"Transport, Postal and Warehousing",20.3,66.6,13.5,0,2,Perth
+Greater Perth,Wholesale Trade,30.8,34.1,10.5,0,2,Perth
+Greater Sydney,Accommodation and Food Services,46.1,179.1,82.5,3,1,Sydney
+Greater Sydney,Administrative and Support Services,49.3,103.0,50.8,3,1,Sydney
+Greater Sydney,"Agriculture, Forestry and Fishing",45.3,8.6,3.9,3,1,Sydney
+Greater Sydney,All industries,47.5,3116.9,1481.7,3,1,Sydney
+Greater Sydney,Arts and Recreation Services,47.9,52.4,25.1,3,1,Sydney
+Greater Sydney,Construction,15.4,283.6,43.7,3,1,Sydney
+Greater Sydney,Education and Training,72.7,268.2,195.1,3,1,Sydney
+Greater Sydney,"Electricity, Gas, Water and Waste Services",21.1,27.9,5.9,3,1,Sydney
+Greater Sydney,Financial and Insurance Services,43.3,211.6,91.7,3,1,Sydney
+Greater Sydney,Health Care and Social Assistance,76.8,423.4,325.1,3,1,Sydney
+Greater Sydney,Information Media and Telecommunications,35.7,62.1,22.2,3,1,Sydney
+Greater Sydney,Manufacturing,32.5,168.1,54.7,3,1,Sydney
+Greater Sydney,Mining,13.2,5.3,0.7,3,1,Sydney
+Greater Sydney,Other Services,44.3,114.7,50.8,3,1,Sydney
+Greater Sydney,"Professional, Scientific and Technical Services",42.4,428.2,181.7,3,1,Sydney
+Greater Sydney,Public Administration and Safety,53.6,182.9,98.0,3,1,Sydney
+Greater Sydney,"Rental, Hiring and Real Estate Services",53.8,50.0,26.9,3,1,Sydney
+Greater Sydney,Retail Trade,53.1,281.0,149.1,3,1,Sydney
+Greater Sydney,"Transport, Postal and Warehousing",25.0,202.7,50.7,3,1,Sydney
+Greater Sydney,Wholesale Trade,36.0,64.1,23.1,3,1,Sydney
+Northern Territory,Accommodation and Food Services,56.4,10.1,5.7,1,0,NT
+Northern Territory,Administrative and Support Services,48.6,3.7,1.8,1,0,NT
+Northern Territory,"Agriculture, Forestry and Fishing",,2.7,0.9,1,0,NT
+Northern Territory,All industries,48.2,145.6,70.2,1,0,NT
+Northern Territory,Arts and Recreation Services,35.2,5.4,1.9,1,0,NT
+Northern Territory,Construction,16.8,11.9,2.0,1,0,NT
+Northern Territory,Education and Training,72.1,14.7,10.6,1,0,NT
+Northern Territory,"Electricity, Gas, Water and Waste Services",21.9,3.2,0.7,1,0,NT
+Northern Territory,Financial and Insurance Services,,1.0,0.6,1,0,NT
+Northern Territory,Health Care and Social Assistance,67.9,28.7,19.5,1,0,NT
+Northern Territory,Information Media and Telecommunications,,0.6,0.2,1,0,NT
+Northern Territory,Manufacturing,25.7,3.5,0.9,1,0,NT
+Northern Territory,Mining,18.6,4.3,0.8,1,0,NT
+Northern Territory,Other Services,38.0,7.1,2.7,1,0,NT
+Northern Territory,"Professional, Scientific and Technical Services",46.6,7.3,3.4,1,0,NT
+Northern Territory,Public Administration and Safety,48.6,22.2,10.8,1,0,NT
+Northern Territory,"Rental, Hiring and Real Estate Services",,2.3,0.6,1,0,NT
+Northern Territory,Retail Trade,53.1,9.6,5.1,1,0,NT
+Northern Territory,"Transport, Postal and Warehousing",23.5,5.1,1.2,1,0,NT
+Northern Territory,Wholesale Trade,,2.2,0.8,1,0,NT
+Rest of NSW,Accommodation and Food Services,53.0,114.1,60.5,2,1,Rest of NSW
+Rest of NSW,Administrative and Support Services,57.4,39.0,22.4,2,1,Rest of NSW
+Rest of NSW,"Agriculture, Forestry and Fishing",33.4,70.0,23.4,2,1,Rest of NSW
+Rest of NSW,All industries,49.0,1435.1,702.7,2,1,Rest of NSW
+Rest of NSW,Arts and Recreation Services,42.5,24.7,10.5,2,1,Rest of NSW
+Rest of NSW,Construction,9.9,147.3,14.6,2,1,Rest of NSW
+Rest of NSW,Education and Training,72.7,121.9,88.6,2,1,Rest of NSW
+Rest of NSW,"Electricity, Gas, Water and Waste Services",24.3,21.0,5.1,2,1,Rest of NSW
+Rest of NSW,Financial and Insurance Services,68.8,26.0,17.9,2,1,Rest of NSW
+Rest of NSW,Health Care and Social Assistance,75.4,263.1,198.5,2,1,Rest of NSW
+Rest of NSW,Information Media and Telecommunications,32.7,11.0,3.6,2,1,Rest of NSW
+Rest of NSW,Manufacturing,28.7,80.4,23.1,2,1,Rest of NSW
+Rest of NSW,Mining,12.8,32.8,4.2,2,1,Rest of NSW
+Rest of NSW,Other Services,42.3,63.8,27.0,2,1,Rest of NSW
+Rest of NSW,"Professional, Scientific and Technical Services",55.7,91.8,51.1,2,1,Rest of NSW
+Rest of NSW,Public Administration and Safety,51.6,99.7,51.4,2,1,Rest of NSW
+Rest of NSW,"Rental, Hiring and Real Estate Services",51.7,17.8,9.2,2,1,Rest of NSW
+Rest of NSW,Retail Trade,53.5,128.7,68.8,2,1,Rest of NSW
+Rest of NSW,"Transport, Postal and Warehousing",26.1,62.1,16.2,2,1,Rest of NSW
+Rest of NSW,Wholesale Trade,33.2,19.9,6.6,2,1,Rest of NSW
+Rest of Qld,Accommodation and Food Services,60.1,104.5,62.8,2,0,Rest of Qld
+Rest of Qld,Administrative and Support Services,53.0,49.6,26.3,2,0,Rest of Qld
+Rest of Qld,"Agriculture, Forestry and Fishing",36.0,56.1,20.2,2,0,Rest of Qld
+Rest of Qld,All industries,48.8,1454.9,710.2,2,0,Rest of Qld
+Rest of Qld,Arts and Recreation Services,42.1,22.8,9.6,2,0,Rest of Qld
+Rest of Qld,Construction,16.6,137.6,22.8,2,0,Rest of Qld
+Rest of Qld,Education and Training,74.9,137.6,103.1,2,0,Rest of Qld
+Rest of Qld,"Electricity, Gas, Water and Waste Services",27.4,22.3,6.1,2,0,Rest of Qld
+Rest of Qld,Financial and Insurance Services,67.2,26.8,18.0,2,0,Rest of Qld
+Rest of Qld,Health Care and Social Assistance,73.4,266.2,195.4,2,0,Rest of Qld
+Rest of Qld,Information Media and Telecommunications,46.4,12.5,5.8,2,0,Rest of Qld
+Rest of Qld,Manufacturing,24.3,74.9,18.2,2,0,Rest of Qld
+Rest of Qld,Mining,13.8,66.9,9.2,2,0,Rest of Qld
+Rest of Qld,Other Services,42.7,63.2,27.0,2,0,Rest of Qld
+Rest of Qld,"Professional, Scientific and Technical Services",43.5,81.9,35.6,2,0,Rest of Qld
+Rest of Qld,Public Administration and Safety,42.5,79.0,33.6,2,0,Rest of Qld
+Rest of Qld,"Rental, Hiring and Real Estate Services",59.0,18.8,11.1,2,0,Rest of Qld
+Rest of Qld,Retail Trade,56.8,146.4,83.1,2,0,Rest of Qld
+Rest of Qld,"Transport, Postal and Warehousing",22.5,55.6,12.5,2,0,Rest of Qld
+Rest of Qld,Wholesale Trade,30.4,32.2,9.8,2,0,Rest of Qld
+Rest of SA,Accommodation and Food Services,66.9,13.9,9.3,1,1,Rest of SA
+Rest of SA,Administrative and Support Services,77.5,4.0,3.1,1,1,Rest of SA
+Rest of SA,"Agriculture, Forestry and Fishing",29.0,30.0,8.7,1,1,Rest of SA
+Rest of SA,All industries,48.8,197.1,96.2,1,1,Rest of SA
+Rest of SA,Arts and Recreation Services,54.8,3.1,1.7,1,1,Rest of SA
+Rest of SA,Construction,5.9,15.3,0.9,1,1,Rest of SA
+Rest of SA,Education and Training,72.9,14.4,10.5,1,1,Rest of SA
+Rest of SA,"Electricity, Gas, Water and Waste Services",,2.0,0.6,1,1,Rest of SA
+Rest of SA,Financial and Insurance Services,,2.2,0.9,1,1,Rest of SA
+Rest of SA,Health Care and Social Assistance,84.5,32.3,27.3,1,1,Rest of SA
+Rest of SA,Information Media and Telecommunications,,0.3,0.3,1,1,Rest of SA
+Rest of SA,Manufacturing,25.0,16.4,4.1,1,1,Rest of SA
+Rest of SA,Mining,14.8,6.1,0.9,1,1,Rest of SA
+Rest of SA,Other Services,32.1,5.6,1.8,1,1,Rest of SA
+Rest of SA,"Professional, Scientific and Technical Services",59.0,7.8,4.6,1,1,Rest of SA
+Rest of SA,Public Administration and Safety,48.9,9.4,4.6,1,1,Rest of SA
+Rest of SA,"Rental, Hiring and Real Estate Services",,2.9,1.1,1,1,Rest of SA
+Rest of SA,Retail Trade,67.9,16.2,11.0,1,1,Rest of SA
+Rest of SA,"Transport, Postal and Warehousing",43.0,10.0,4.3,1,1,Rest of SA
+Rest of SA,Wholesale Trade,9.6,5.2,0.5,1,1,Rest of SA
+Rest of Tas.,Accommodation and Food Services,61.5,10.4,6.4,2,4,Rest of Tas.
+Rest of Tas.,Administrative and Support Services,52.5,4.0,2.1,2,4,Rest of Tas.
+Rest of Tas.,"Agriculture, Forestry and Fishing",27.2,13.6,3.7,2,4,Rest of Tas.
+Rest of Tas.,All industries,46.0,152.7,70.3,2,4,Rest of Tas.
+Rest of Tas.,Arts and Recreation Services,,2.5,1.7,2,4,Rest of Tas.
+Rest of Tas.,Construction,10.2,15.7,1.6,2,4,Rest of Tas.
+Rest of Tas.,Education and Training,75.2,10.1,7.6,2,4,Rest of Tas.
+Rest of Tas.,"Electricity, Gas, Water and Waste Services",35.3,3.4,1.2,2,4,Rest of Tas.
+Rest of Tas.,Financial and Insurance Services,,1.5,1.1,2,4,Rest of Tas.
+Rest of Tas.,Health Care and Social Assistance,76.3,27.8,21.2,2,4,Rest of Tas.
+Rest of Tas.,Information Media and Telecommunications,,0.7,0.3,2,4,Rest of Tas.
+Rest of Tas.,Manufacturing,21.0,11.9,2.5,2,4,Rest of Tas.
+Rest of Tas.,Mining,14.7,3.4,0.5,2,4,Rest of Tas.
+Rest of Tas.,Other Services,31.4,7.0,2.2,2,4,Rest of Tas.
+Rest of Tas.,"Professional, Scientific and Technical Services",42.6,6.1,2.6,2,4,Rest of Tas.
+Rest of Tas.,Public Administration and Safety,51.8,8.5,4.4,2,4,Rest of Tas.
+Rest of Tas.,"Rental, Hiring and Real Estate Services",,1.3,0.8,2,4,Rest of Tas.
+Rest of Tas.,Retail Trade,55.0,14.0,7.7,2,4,Rest of Tas.
+Rest of Tas.,"Transport, Postal and Warehousing",23.7,7.6,1.8,2,4,Rest of Tas.
+Rest of Tas.,Wholesale Trade,28.1,3.2,0.9,2,4,Rest of Tas.
+Rest of Vic.,Accommodation and Food Services,50.0,50.6,25.3,2,2,Rest of Vic.
+Rest of Vic.,Administrative and Support Services,39.2,19.4,7.6,2,2,Rest of Vic.
+Rest of Vic.,"Agriculture, Forestry and Fishing",31.5,47.0,14.8,2,2,Rest of Vic.
+Rest of Vic.,All industries,48.7,805.0,392.1,2,2,Rest of Vic.
+Rest of Vic.,Arts and Recreation Services,56.8,18.5,10.5,2,2,Rest of Vic.
+Rest of Vic.,Construction,10.9,81.7,8.9,2,2,Rest of Vic.
+Rest of Vic.,Education and Training,75.8,87.2,66.1,2,2,Rest of Vic.
+Rest of Vic.,"Electricity, Gas, Water and Waste Services",24.1,13.3,3.2,2,2,Rest of Vic.
+Rest of Vic.,Financial and Insurance Services,54.3,18.6,10.1,2,2,Rest of Vic.
+Rest of Vic.,Health Care and Social Assistance,78.7,158.0,124.3,2,2,Rest of Vic.
+Rest of Vic.,Information Media and Telecommunications,57.4,5.4,3.1,2,2,Rest of Vic.
+Rest of Vic.,Manufacturing,29.7,56.3,16.7,2,2,Rest of Vic.
+Rest of Vic.,Mining,6.2,8.1,0.5,2,2,Rest of Vic.
+Rest of Vic.,Other Services,26.8,29.1,7.8,2,2,Rest of Vic.
+Rest of Vic.,"Professional, Scientific and Technical Services",39.4,36.0,14.2,2,2,Rest of Vic.
+Rest of Vic.,Public Administration and Safety,41.7,44.1,18.4,2,2,Rest of Vic.
+Rest of Vic.,"Rental, Hiring and Real Estate Services",50.0,5.8,2.9,2,2,Rest of Vic.
+Rest of Vic.,Retail Trade,59.6,78.5,46.8,2,2,Rest of Vic.
+Rest of Vic.,"Transport, Postal and Warehousing",15.6,28.9,4.5,2,2,Rest of Vic.
+Rest of Vic.,Wholesale Trade,34.6,18.5,6.4,2,2,Rest of Vic.
+Rest of WA,Accommodation and Food Services,56.9,15.3,8.7,0,1,Rest of WA
+Rest of WA,Administrative and Support Services,34.5,5.5,1.9,0,1,Rest of WA
+Rest of WA,"Agriculture, Forestry and Fishing",29.8,21.5,6.4,0,1,Rest of WA
+Rest of WA,All industries,44.1,300.8,132.8,0,1,Rest of WA
+Rest of WA,Arts and Recreation Services,63.6,3.3,2.1,0,1,Rest of WA
+Rest of WA,Construction,6.9,31.9,2.2,0,1,Rest of WA
+Rest of WA,Education and Training,82.4,25.6,21.1,0,1,Rest of WA
+Rest of WA,"Electricity, Gas, Water and Waste Services",23.6,8.9,2.1,0,1,Rest of WA
+Rest of WA,Financial and Insurance Services,58.3,3.6,2.1,0,1,Rest of WA
+Rest of WA,Health Care and Social Assistance,80.3,29.5,23.7,0,1,Rest of WA
+Rest of WA,Information Media and Telecommunications,,2.4,1.1,0,1,Rest of WA
+Rest of WA,Manufacturing,26.1,18.4,4.8,0,1,Rest of WA
+Rest of WA,Mining,28.0,34.7,9.7,0,1,Rest of WA
+Rest of WA,Other Services,43.5,18.4,8.0,0,1,Rest of WA
+Rest of WA,"Professional, Scientific and Technical Services",56.7,14.1,8.0,0,1,Rest of WA
+Rest of WA,Public Administration and Safety,49.7,17.7,8.8,0,1,Rest of WA
+Rest of WA,"Rental, Hiring and Real Estate Services",18.2,3.3,0.6,0,1,Rest of WA
+Rest of WA,Retail Trade,62.5,26.7,16.7,0,1,Rest of WA
+Rest of WA,"Transport, Postal and Warehousing",27.1,14.4,3.9,0,1,Rest of WA
+Rest of WA,Wholesale Trade,16.1,5.6,0.9,0,1,Rest of WA

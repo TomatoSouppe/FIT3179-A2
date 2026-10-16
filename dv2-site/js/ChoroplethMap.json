@@ -1,0 +1,148 @@
+{
+  "width": 680,
+  "height": 520,
+  "title": {
+    "text": "Share of each region's workers in one industry, Feb 2026",
+    "anchor": "start",
+    "fontSize": 15
+  },
+  "params": [
+    {
+      "name": "industry_sel",
+      "value": "Mining",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Accommodation and Food Services",
+          "Administrative and Support Services",
+          "Agriculture, Forestry and Fishing",
+          "Arts and Recreation Services",
+          "Construction",
+          "Education and Training",
+          "Electricity, Gas, Water and Waste Services",
+          "Financial and Insurance Services",
+          "Health Care and Social Assistance",
+          "Information Media and Telecommunications",
+          "Manufacturing",
+          "Mining",
+          "Other Services",
+          "Professional, Scientific and Technical Services",
+          "Public Administration and Safety",
+          "Rental, Hiring and Real Estate Services",
+          "Retail Trade",
+          "Transport, Postal and Warehousing",
+          "Wholesale Trade"
+        ],
+        "name": "Choose an industry: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "albers",
+    "rotate": [
+      -132,
+      0,
+      0
+    ],
+    "center": [
+      0,
+      -27
+    ],
+    "parallels": [
+      -18,
+      -36
+    ],
+    "scale": 780
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/australia_regions.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "GCCSA_2021_AUST_GDA2020"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#eceae4",
+        "stroke": "#ffffff",
+        "strokeWidth": 0.8
+      }
+    },
+    {
+      "data": {
+        "url": "data/region_industry_share_2026.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.industry == industry_sel"
+        },
+        {
+          "lookup": "region",
+          "from": {
+            "data": {
+              "url": "data/australia_regions.topojson",
+              "format": {
+                "type": "topojson",
+                "feature": "GCCSA_2021_AUST_GDA2020"
+              }
+            },
+            "key": "properties.region"
+          },
+          "as": "geo"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#ffffff",
+        "strokeWidth": 0.8
+      },
+      "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        },
+        "color": {
+          "field": "share_pct",
+          "type": "quantitative",
+          "scale": {
+            "scheme": "tealblues",
+            "domainMin": 0
+          },
+          "legend": {
+            "title": "% of workers",
+            "orient": "bottom-left",
+            "titleLimit": 220,
+            "gradientLength": 160
+          }
+        },
+        "tooltip": [
+          {
+            "field": "region",
+            "title": "Region"
+          },
+          {
+            "field": "industry",
+            "title": "Industry"
+          },
+          {
+            "field": "share_pct",
+            "title": "% of workers",
+            "format": ".1f"
+          },
+          {
+            "field": "employed",
+            "title": "Workers (thousands)",
+            "format": ",.0f"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

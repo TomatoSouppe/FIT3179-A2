@@ -1,0 +1,159 @@
+{
+  "width": 680,
+  "height": 520,
+  "title": {
+    "text": "How many people work in one industry, by region, Feb 2026",
+    "anchor": "start",
+    "fontSize": 15
+  },
+  "params": [
+    {
+      "name": "industry_sel2",
+      "value": "Health Care and Social Assistance",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Accommodation and Food Services",
+          "Administrative and Support Services",
+          "Agriculture, Forestry and Fishing",
+          "Arts and Recreation Services",
+          "Construction",
+          "Education and Training",
+          "Electricity, Gas, Water and Waste Services",
+          "Financial and Insurance Services",
+          "Health Care and Social Assistance",
+          "Information Media and Telecommunications",
+          "Manufacturing",
+          "Mining",
+          "Other Services",
+          "Professional, Scientific and Technical Services",
+          "Public Administration and Safety",
+          "Rental, Hiring and Real Estate Services",
+          "Retail Trade",
+          "Transport, Postal and Warehousing",
+          "Wholesale Trade"
+        ],
+        "name": "Choose an industry: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "albers",
+    "rotate": [
+      -132,
+      0,
+      0
+    ],
+    "center": [
+      0,
+      -27
+    ],
+    "parallels": [
+      -18,
+      -36
+    ],
+    "scale": 780
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/australia_regions.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "GCCSA_2021_AUST_GDA2020"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#eceae4",
+        "stroke": "#ffffff",
+        "strokeWidth": 0.8
+      }
+    },
+    {
+      "data": {
+        "url": "data/region_industry_share_2026.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.industry == industry_sel2"
+        },
+        {
+          "lookup": "region",
+          "from": {
+            "data": {
+              "url": "data/region_points.csv"
+            },
+            "key": "region",
+            "fields": [
+              "lon",
+              "lat"
+            ]
+          }
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "fill": "#c4572b",
+        "fillOpacity": 0.72,
+        "stroke": "#ffffff",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "size": {
+          "field": "employed",
+          "type": "quantitative",
+          "scale": {
+            "range": [
+              20,
+              2600
+            ]
+          },
+          "legend": {
+            "title": "Workers (thousands)",
+            "orient": "bottom-left",
+            "symbolFillColor": "#c4572b"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "region",
+            "title": "Region"
+          },
+          {
+            "field": "industry",
+            "title": "Industry"
+          },
+          {
+            "field": "employed",
+            "title": "Workers (thousands)",
+            "format": ",.0f"
+          },
+          {
+            "field": "share_pct",
+            "title": "% of region's workers",
+            "format": ".1f"
+          }
+        ],
+        "order": {
+          "field": "employed",
+          "type": "quantitative",
+          "sort": "descending"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

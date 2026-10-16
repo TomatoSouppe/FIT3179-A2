@@ -1,0 +1,173 @@
+{
+  "width": "container",
+  "height": 470,
+  "title": {
+    "text": "What kinds of jobs does each industry offer? Feb 2026",
+    "subtitle": "Colour = share of an industry's workers doing each type of job",
+    "anchor": "start",
+    "fontSize": 15
+  },
+  "data": {
+    "url": "data/eq09_occupation.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.date == '2026-02-01'"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "employed",
+          "as": "employed"
+        }
+      ],
+      "groupby": [
+        "industry",
+        "occupation"
+      ]
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "employed",
+          "as": "tot"
+        }
+      ],
+      "groupby": [
+        "industry"
+      ]
+    },
+    {
+      "calculate": "datum.employed / datum.tot * 100",
+      "as": "share"
+    },
+    {
+      "calculate": "datum.occupation == 'Professionals' ? datum.share : 0",
+      "as": "prof"
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "max",
+          "field": "prof",
+          "as": "prof_share"
+        }
+      ],
+      "groupby": [
+        "industry"
+      ]
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "occupation",
+      "type": "nominal",
+      "sort": [
+        "Managers",
+        "Professionals",
+        "Technicians and Trades Workers",
+        "Community and Personal Service Workers",
+        "Clerical and Administrative Workers",
+        "Sales Workers",
+        "Machinery Operators and Drivers",
+        "Labourers"
+      ],
+      "title": null,
+      "axis": {
+        "orient": "top",
+        "labelAngle": -35,
+        "labelLimit": 200,
+        "labelFontSize": 10.5
+      }
+    },
+    "y": {
+      "field": "industry",
+      "type": "nominal",
+      "title": null,
+      "sort": {
+        "field": "prof_share",
+        "op": "max",
+        "order": "descending"
+      },
+      "axis": {
+        "labelLimit": 320,
+        "labelFontSize": 10.5
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "stroke": "#fbfaf7",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "color": {
+          "field": "share",
+          "type": "quantitative",
+          "scale": {
+            "scheme": "tealblues",
+            "domainMin": 0
+          },
+          "legend": {
+            "title": "% of workers",
+            "orient": "bottom"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "industry",
+            "title": "Industry"
+          },
+          {
+            "field": "occupation",
+            "title": "Job type"
+          },
+          {
+            "field": "share",
+            "title": "% of industry's workers",
+            "format": ".1f"
+          },
+          {
+            "field": "employed",
+            "title": "Workers (thousands)",
+            "format": ",.0f"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.share >= 12"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 10.5
+      },
+      "encoding": {
+        "text": {
+          "field": "share",
+          "type": "quantitative",
+          "format": ".0f"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.share > 38",
+            "value": "white"
+          },
+          "value": "#1d2a33"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

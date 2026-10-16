@@ -1,0 +1,15 @@
+region,col,row,label
+Northern Territory,1,0,NT
+Rest of Qld,2,0,Rest of Qld
+Greater Brisbane,3,0,Brisbane
+Rest of WA,0,1,Rest of WA
+Rest of SA,1,1,Rest of SA
+Rest of NSW,2,1,Rest of NSW
+Greater Sydney,3,1,Sydney
+Greater Perth,0,2,Perth
+Greater Adelaide,1,2,Adelaide
+Rest of Vic.,2,2,Rest of Vic.
+Australian Capital Territory,3,2,ACT
+Greater Melbourne,2,3,Melbourne
+Rest of Tas.,2,4,Rest of Tas.
+Greater Hobart,3,4,Hobart

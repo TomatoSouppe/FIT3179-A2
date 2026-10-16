@@ -1,0 +1,135 @@
+{
+  "width": 680,
+  "height": 520,
+  "title": {
+    "text": "Men and women at work: one dot is 2,000 workers, Feb 2026",
+    "anchor": "start",
+    "fontSize": 15
+  },
+  "params": [
+    {
+      "name": "industry_sel3",
+      "value": "Construction",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Accommodation and Food Services",
+          "Administrative and Support Services",
+          "Agriculture, Forestry and Fishing",
+          "Arts and Recreation Services",
+          "Construction",
+          "Education and Training",
+          "Electricity, Gas, Water and Waste Services",
+          "Financial and Insurance Services",
+          "Health Care and Social Assistance",
+          "Information Media and Telecommunications",
+          "Manufacturing",
+          "Mining",
+          "Other Services",
+          "Professional, Scientific and Technical Services",
+          "Public Administration and Safety",
+          "Rental, Hiring and Real Estate Services",
+          "Retail Trade",
+          "Transport, Postal and Warehousing",
+          "Wholesale Trade"
+        ],
+        "name": "Choose an industry: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "albers",
+    "rotate": [
+      -132,
+      0,
+      0
+    ],
+    "center": [
+      0,
+      -27
+    ],
+    "parallels": [
+      -18,
+      -36
+    ],
+    "scale": 780
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/australia_regions.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "GCCSA_2021_AUST_GDA2020"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#f1efe9",
+        "stroke": "#d9d6cc",
+        "strokeWidth": 0.6
+      }
+    },
+    {
+      "data": {
+        "url": "data/dots_workers_2026.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.industry == industry_sel3"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 14,
+        "opacity": 0.7,
+        "strokeWidth": 0
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "sex",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Women",
+              "Men"
+            ],
+            "range": [
+              "#7b3fa0",
+              "#e08a1e"
+            ]
+          },
+          "legend": {
+            "title": null,
+            "orient": "bottom-left",
+            "symbolSize": 120,
+            "symbolOpacity": 0.9
+          }
+        },
+        "tooltip": [
+          {
+            "field": "region",
+            "title": "Region"
+          },
+          {
+            "field": "sex",
+            "title": "Dot shows"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

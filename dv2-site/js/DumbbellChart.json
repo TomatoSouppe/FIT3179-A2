@@ -1,0 +1,192 @@
+{
+  "width": "container",
+  "height": 470,
+  "title": {
+    "text": "Women's share of workers in each industry, 2006 vs 2026",
+    "subtitle": "Grey dot = 2006. Purple dot = women are the majority in 2026, orange = men are. Dashed line = equal split.",
+    "anchor": "start",
+    "fontSize": 15
+  },
+  "data": {
+    "url": "data/women_share_by_industry.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "color": "#b3b0a6",
+        "strokeWidth": 2.5
+      },
+      "encoding": {
+        "x": {
+          "field": "women_2006",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ]
+          },
+          "title": "Women as % of workers",
+          "axis": {
+            "values": [
+              0,
+              25,
+              50,
+              75,
+              100
+            ]
+          }
+        },
+        "x2": {
+          "field": "women_2026"
+        },
+        "y": {
+          "field": "industry",
+          "type": "nominal",
+          "sort": {
+            "field": "women_2026",
+            "order": "descending"
+          },
+          "title": null,
+          "axis": {
+            "labelLimit": 320,
+            "labelFontSize": 10.5,
+            "grid": true,
+            "gridColor": "#eceae4",
+            "domain": false,
+            "ticks": false
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 90,
+        "color": "#b3b0a6",
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "women_2006",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "industry",
+            "title": "Industry"
+          },
+          {
+            "field": "women_2006",
+            "title": "2006 (%)",
+            "format": ".0f"
+          },
+          {
+            "field": "women_2026",
+            "title": "2026 (%)",
+            "format": ".0f"
+          }
+        ],
+        "y": {
+          "field": "industry",
+          "type": "nominal",
+          "sort": {
+            "field": "women_2026",
+            "order": "descending"
+          },
+          "title": null,
+          "axis": {
+            "labelLimit": 320,
+            "labelFontSize": 10.5,
+            "grid": true,
+            "gridColor": "#eceae4",
+            "domain": false,
+            "ticks": false
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 110,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "women_2026",
+          "type": "quantitative"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.women_2026 >= 50",
+            "value": "#7b3fa0"
+          },
+          "value": "#e08a1e"
+        },
+        "tooltip": [
+          {
+            "field": "industry",
+            "title": "Industry"
+          },
+          {
+            "field": "women_2006",
+            "title": "2006 (%)",
+            "format": ".0f"
+          },
+          {
+            "field": "women_2026",
+            "title": "2026 (%)",
+            "format": ".0f"
+          }
+        ],
+        "y": {
+          "field": "industry",
+          "type": "nominal",
+          "sort": {
+            "field": "women_2026",
+            "order": "descending"
+          },
+          "title": null,
+          "axis": {
+            "labelLimit": 320,
+            "labelFontSize": 10.5,
+            "grid": true,
+            "gridColor": "#eceae4",
+            "domain": false,
+            "ticks": false
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "x": 50
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "strokeDash": [
+          4,
+          3
+        ],
+        "color": "#1d2a33"
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    }
+  }
+}

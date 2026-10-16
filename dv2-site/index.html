@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Where Australia Works</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0"></script>
+</head>
+<body>
+
+<header>
+  <h1>Where Australia Works</h1>
+  <p class="lede">Which industries employ the most Australians, how that is changing, and where the jobs are.</p>
+  <p class="byline">By YOUR NAME, October 2026</p>
+</header>
+
+<main>
+  <section id="hook">
+    <h2>The basics</h2>
+    <p>Write 2-3 short sentences here that set up the chart below.</p>
+    <div id="BarChart" class="chart"></div>
+  </section>
+
+  <section id="change">
+    <h2>How jobs have changed</h2>
+    <p>Text, then a chart (copy the BarChart pattern).</p>
+    <div id="StreamGraph" class="chart"></div>
+    <div id="BumpChart" class="chart"></div>
+    <div id="SlopeChart" class="chart"></div>
+  </section>
+
+  <section id="where">
+    <h2>Where are the jobs?</h2>
+    <p>Text, then your three maps.</p>
+    <div id="ChoroplethMap" class="chart"></div>
+    <div id="ProportionalSymbolMap" class="chart"></div>
+    <div id="DotDensityMap" class="chart"></div>
+  </section>
+
+  <section id="who">
+    <h2>Who are the workers?</h2>
+    <p>Text, then charts.</p>
+    <div id="Ridgeline" class="chart"></div>
+    <div id="Heatmap" class="chart"></div>
+    <div id="DumbbellChart" class="chart"></div>
+  </section>
+</main>
+
+<script>
+  vegaEmbed("#BarChart", "js/BarChart.json", {actions: false});
+  vegaEmbed("#ChoroplethMap", "js/ChoroplethMap.json", {actions: false});
+  vegaEmbed("#ProportionalSymbolMap", "js/ProportionalSymbolMap.json", {actions: false});
+  vegaEmbed("#DotDensityMap", "js/DotDensityMap.json", {actions: false});
+  vegaEmbed("#StreamGraph", "js/StreamGraph.json", {actions: false});
+  vegaEmbed("#BumpChart", "js/BumpChart.json", {actions: false});
+  vegaEmbed("#SlopeChart", "js/SlopeChart.json", {actions: false});
+  vegaEmbed("#Ridgeline", "js/Ridgeline.json", {actions: false});
+  vegaEmbed("#Heatmap", "js/Heatmap.json", {actions: false});
+  vegaEmbed("#DumbbellChart", "js/DumbbellChart.json", {actions: false});
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+{
+  "width": "container",
+  "height": 420,
+  "data": {
+    "url": "data/employment_by_industry_national.csv"
+  },
+  "mark": {
+    "type": "bar",
+    "color": "#1f6f8b"
+  },
+  "encoding": {
+    "y": {
+      "field": "industry",
+      "type": "nominal",
+      "sort": "-x",
+      "title": null
+    },
+    "x": {
+      "field": "trend",
+      "type": "quantitative",
+      "title": "Employed people (thousands), Feb 2026"
+    },
+    "tooltip": [
+      {
+        "field": "industry",
+        "title": "Industry"
+      },
+      {
+        "field": "trend",
+        "title": "Employed (thousands)",
+        "format": ",.0f"
+      }
+    ]
+  },
+  "transform": [
+    {
+      "filter": "datum.date == '2026-02-01' && datum.industry != 'All industries'"
+    }
+  ]
+}
